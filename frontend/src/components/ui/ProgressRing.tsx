@@ -1,0 +1,1 @@
+export default function ProgressRing({value,size=90}:{value:number;size?:number}){return <div className="ring" style={{width:size,height:size,background:`conic-gradient(var(--accent) ${Math.min(100,value)*3.6}deg,var(--border) 0deg)`}}><div>{Math.round(Math.min(100,value))}%</div></div>}

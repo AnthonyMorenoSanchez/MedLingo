@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my sleep?
+  es: ¿Puede explicar mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can you explain my anxiety?
+  es: ¿Puede explicar mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can you explain my mood?
+  es: ¿Puede explicar mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can you explain psychotherapy?
+  es: ¿Puede explicar la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can you explain my support network?
+  es: ¿Puede explicar mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I have a question about my sleep.
+  es: Tengo una pregunta sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I have a question about my anxiety.
+  es: Tengo una pregunta sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I have a question about my mood.
+  es: Tengo una pregunta sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I have a question about psychotherapy.
+  es: Tengo una pregunta sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I have a question about my support network.
+  es: Tengo una pregunta sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I need help understanding my sleep.
+  es: Necesito ayuda para entender mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I need help understanding my anxiety.
+  es: Necesito ayuda para entender mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I need help understanding my mood.
+  es: Necesito ayuda para entender mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I need help understanding psychotherapy.
+  es: Necesito ayuda para entender la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I need help understanding my support network.
+  es: Necesito ayuda para entender mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please tell me more about my sleep.
+  es: Por favor, dígame más sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please tell me more about my anxiety.
+  es: Por favor, dígame más sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please tell me more about my mood.
+  es: Por favor, dígame más sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please tell me more about psychotherapy.
+  es: Por favor, dígame más sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please tell me more about my support network.
+  es: Por favor, dígame más sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like written information about my sleep.
+  es: Me gustaría recibir información escrita sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like written information about my anxiety.
+  es: Me gustaría recibir información escrita sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like written information about my mood.
+  es: Me gustaría recibir información escrita sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like written information about psychotherapy.
+  es: Me gustaría recibir información escrita sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like written information about my support network.
+  es: Me gustaría recibir información escrita sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could we discuss my sleep with an interpreter?
+  es: ¿Podríamos hablar sobre mi sueño con un intérprete?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could we discuss my anxiety with an interpreter?
+  es: ¿Podríamos hablar sobre mi ansiedad con un intérprete?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could we discuss my mood with an interpreter?
+  es: ¿Podríamos hablar sobre mi estado de ánimo con un intérprete?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could we discuss psychotherapy with an interpreter?
+  es: ¿Podríamos hablar sobre la psicoterapia con un intérprete?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could we discuss my support network with an interpreter?
+  es: ¿Podríamos hablar sobre mi red de apoyo con un intérprete?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you explain my sleep again?
+  es: ¿Podría explicar mi sueño otra vez?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you explain my anxiety again?
+  es: ¿Podría explicar mi ansiedad otra vez?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you explain my mood again?
+  es: ¿Podría explicar mi estado de ánimo otra vez?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you explain psychotherapy again?
+  es: ¿Podría explicar la psicoterapia otra vez?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you explain my support network again?
+  es: ¿Podría explicar mi red de apoyo otra vez?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I do not understand the information about my sleep.
+  es: No entiendo la información sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I do not understand the information about my anxiety.
+  es: No entiendo la información sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I do not understand the information about my mood.
+  es: No entiendo la información sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I do not understand the information about psychotherapy.
+  es: No entiendo la información sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I do not understand the information about my support network.
+  es: No entiendo la información sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Who can answer my questions about my sleep?
+  es: ¿Quién puede responder mis preguntas sobre mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Who can answer my questions about my anxiety?
+  es: ¿Quién puede responder mis preguntas sobre mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Who can answer my questions about my mood?
+  es: ¿Quién puede responder mis preguntas sobre mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Who can answer my questions about psychotherapy?
+  es: ¿Quién puede responder mis preguntas sobre la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Who can answer my questions about my support network?
+  es: ¿Quién puede responder mis preguntas sobre mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can we review the information about my sleep?
+  es: ¿Podemos revisar la información sobre mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can we review the information about my anxiety?
+  es: ¿Podemos revisar la información sobre mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can we review the information about my mood?
+  es: ¿Podemos revisar la información sobre mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can we review the information about psychotherapy?
+  es: ¿Podemos revisar la información sobre la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can we review the information about my support network?
+  es: ¿Podemos revisar la información sobre mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please write down the information about my sleep.
+  es: Por favor, anote la información sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please write down the information about my anxiety.
+  es: Por favor, anote la información sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please write down the information about my mood.
+  es: Por favor, anote la información sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please write down the information about psychotherapy.
+  es: Por favor, anote la información sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Please write down the information about my support network.
+  es: Por favor, anote la información sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like to talk to the doctor about my sleep.
+  es: Me gustaría hablar con el médico sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like to talk to the doctor about my anxiety.
+  es: Me gustaría hablar con el médico sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like to talk to the doctor about my mood.
+  es: Me gustaría hablar con el médico sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like to talk to the doctor about psychotherapy.
+  es: Me gustaría hablar con el médico sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like to talk to the doctor about my support network.
+  es: Me gustaría hablar con el médico sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you speak more slowly when explaining my sleep?
+  es: ¿Podría hablar más despacio al explicar mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you speak more slowly when explaining my anxiety?
+  es: ¿Podría hablar más despacio al explicar mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you speak more slowly when explaining my mood?
+  es: ¿Podría hablar más despacio al explicar mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you speak more slowly when explaining psychotherapy?
+  es: ¿Podría hablar más despacio al explicar la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you speak more slowly when explaining my support network?
+  es: ¿Podría hablar más despacio al explicar mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Thank you for explaining my sleep.
+  es: Gracias por explicar mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Thank you for explaining my anxiety.
+  es: Gracias por explicar mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Thank you for explaining my mood.
+  es: Gracias por explicar mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Thank you for explaining psychotherapy.
+  es: Gracias por explicar la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Thank you for explaining my support network.
+  es: Gracias por explicar mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Is there a brochure about my sleep?
+  es: ¿Hay un folleto sobre mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Is there a brochure about my anxiety?
+  es: ¿Hay un folleto sobre mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Is there a brochure about my mood?
+  es: ¿Hay un folleto sobre mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Is there a brochure about psychotherapy?
+  es: ¿Hay un folleto sobre la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Is there a brochure about my support network?
+  es: ¿Hay un folleto sobre mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can my family ask questions about my sleep?
+  es: ¿Puede mi familia hacer preguntas sobre mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can my family ask questions about my anxiety?
+  es: ¿Puede mi familia hacer preguntas sobre mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can my family ask questions about my mood?
+  es: ¿Puede mi familia hacer preguntas sobre mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can my family ask questions about psychotherapy?
+  es: ¿Puede mi familia hacer preguntas sobre la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Can my family ask questions about my support network?
+  es: ¿Puede mi familia hacer preguntas sobre mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I want to make sure I understand my sleep.
+  es: Quiero asegurarme de entender mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I want to make sure I understand my anxiety.
+  es: Quiero asegurarme de entender mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I want to make sure I understand my mood.
+  es: Quiero asegurarme de entender mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I want to make sure I understand psychotherapy.
+  es: Quiero asegurarme de entender la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I want to make sure I understand my support network.
+  es: Quiero asegurarme de entender mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you use simpler words to explain my sleep?
+  es: ¿Podría usar palabras más sencillas para explicar mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you use simpler words to explain my anxiety?
+  es: ¿Podría usar palabras más sencillas para explicar mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you use simpler words to explain my mood?
+  es: ¿Podría usar palabras más sencillas para explicar mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you use simpler words to explain psychotherapy?
+  es: ¿Podría usar palabras más sencillas para explicar la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Could you use simpler words to explain my support network?
+  es: ¿Podría usar palabras más sencillas para explicar mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Where can I find information in Spanish about my sleep?
+  es: ¿Dónde puedo encontrar información en español sobre mi sueño?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Where can I find information in Spanish about my anxiety?
+  es: ¿Dónde puedo encontrar información en español sobre mi ansiedad?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Where can I find information in Spanish about my mood?
+  es: ¿Dónde puedo encontrar información en español sobre mi estado de ánimo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Where can I find information in Spanish about psychotherapy?
+  es: ¿Dónde puedo encontrar información en español sobre la psicoterapia?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: Where can I find information in Spanish about my support network?
+  es: ¿Dónde puedo encontrar información en español sobre mi red de apoyo?
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: We have not yet discussed my sleep.
+  es: Todavía no hemos hablado sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: We have not yet discussed my anxiety.
+  es: Todavía no hemos hablado sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: We have not yet discussed my mood.
+  es: Todavía no hemos hablado sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: We have not yet discussed psychotherapy.
+  es: Todavía no hemos hablado sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: We have not yet discussed my support network.
+  es: Todavía no hemos hablado sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I wrote down my questions about my sleep.
+  es: Anoté mis preguntas sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I wrote down my questions about my anxiety.
+  es: Anoté mis preguntas sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I wrote down my questions about my mood.
+  es: Anoté mis preguntas sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I wrote down my questions about psychotherapy.
+  es: Anoté mis preguntas sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I wrote down my questions about my support network.
+  es: Anoté mis preguntas sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like a copy of the information about my sleep.
+  es: Me gustaría recibir una copia de la información sobre mi sueño.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like a copy of the information about my anxiety.
+  es: Me gustaría recibir una copia de la información sobre mi ansiedad.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like a copy of the information about my mood.
+  es: Me gustaría recibir una copia de la información sobre mi estado de ánimo.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like a copy of the information about psychotherapy.
+  es: Me gustaría recibir una copia de la información sobre la psicoterapia.
+  notes: Authored communication practice.
+  specialty: psychiatry
+- difficulty: 2
+  en: I would like a copy of the information about my support network.
+  es: Me gustaría recibir una copia de la información sobre mi red de apoyo.
+  notes: Authored communication practice.
+  specialty: psychiatry

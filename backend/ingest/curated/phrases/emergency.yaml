@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain the emergency evaluation?
+  es: ¿Puede explicar la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can you explain my wound?
+  es: ¿Puede explicar mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can you explain the triage process?
+  es: ¿Puede explicar el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can you explain the ambulance transfer?
+  es: ¿Puede explicar el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can you explain my discharge instructions?
+  es: ¿Puede explicar mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I have a question about the emergency evaluation.
+  es: Tengo una pregunta sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I have a question about my wound.
+  es: Tengo una pregunta sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I have a question about the triage process.
+  es: Tengo una pregunta sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I have a question about the ambulance transfer.
+  es: Tengo una pregunta sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I have a question about my discharge instructions.
+  es: Tengo una pregunta sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I need help understanding the emergency evaluation.
+  es: Necesito ayuda para entender la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I need help understanding my wound.
+  es: Necesito ayuda para entender mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I need help understanding the triage process.
+  es: Necesito ayuda para entender el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I need help understanding the ambulance transfer.
+  es: Necesito ayuda para entender el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I need help understanding my discharge instructions.
+  es: Necesito ayuda para entender mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please tell me more about the emergency evaluation.
+  es: Por favor, dígame más sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please tell me more about my wound.
+  es: Por favor, dígame más sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please tell me more about the triage process.
+  es: Por favor, dígame más sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please tell me more about the ambulance transfer.
+  es: Por favor, dígame más sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please tell me more about my discharge instructions.
+  es: Por favor, dígame más sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like written information about the emergency evaluation.
+  es: Me gustaría recibir información escrita sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like written information about my wound.
+  es: Me gustaría recibir información escrita sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like written information about the triage process.
+  es: Me gustaría recibir información escrita sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like written information about the ambulance transfer.
+  es: Me gustaría recibir información escrita sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like written information about my discharge instructions.
+  es: Me gustaría recibir información escrita sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could we discuss the emergency evaluation with an interpreter?
+  es: ¿Podríamos hablar sobre la evaluación de urgencia con un intérprete?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could we discuss my wound with an interpreter?
+  es: ¿Podríamos hablar sobre mi herida con un intérprete?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could we discuss the triage process with an interpreter?
+  es: ¿Podríamos hablar sobre el proceso de triaje con un intérprete?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could we discuss the ambulance transfer with an interpreter?
+  es: ¿Podríamos hablar sobre el traslado en ambulancia con un intérprete?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could we discuss my discharge instructions with an interpreter?
+  es: ¿Podríamos hablar sobre mis indicaciones de alta con un intérprete?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you explain the emergency evaluation again?
+  es: ¿Podría explicar la evaluación de urgencia otra vez?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you explain my wound again?
+  es: ¿Podría explicar mi herida otra vez?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you explain the triage process again?
+  es: ¿Podría explicar el proceso de triaje otra vez?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you explain the ambulance transfer again?
+  es: ¿Podría explicar el traslado en ambulancia otra vez?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you explain my discharge instructions again?
+  es: ¿Podría explicar mis indicaciones de alta otra vez?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I do not understand the information about the emergency evaluation.
+  es: No entiendo la información sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I do not understand the information about my wound.
+  es: No entiendo la información sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I do not understand the information about the triage process.
+  es: No entiendo la información sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I do not understand the information about the ambulance transfer.
+  es: No entiendo la información sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I do not understand the information about my discharge instructions.
+  es: No entiendo la información sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Who can answer my questions about the emergency evaluation?
+  es: ¿Quién puede responder mis preguntas sobre la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Who can answer my questions about my wound?
+  es: ¿Quién puede responder mis preguntas sobre mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Who can answer my questions about the triage process?
+  es: ¿Quién puede responder mis preguntas sobre el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Who can answer my questions about the ambulance transfer?
+  es: ¿Quién puede responder mis preguntas sobre el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Who can answer my questions about my discharge instructions?
+  es: ¿Quién puede responder mis preguntas sobre mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can we review the information about the emergency evaluation?
+  es: ¿Podemos revisar la información sobre la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can we review the information about my wound?
+  es: ¿Podemos revisar la información sobre mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can we review the information about the triage process?
+  es: ¿Podemos revisar la información sobre el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can we review the information about the ambulance transfer?
+  es: ¿Podemos revisar la información sobre el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can we review the information about my discharge instructions?
+  es: ¿Podemos revisar la información sobre mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please write down the information about the emergency evaluation.
+  es: Por favor, anote la información sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please write down the information about my wound.
+  es: Por favor, anote la información sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please write down the information about the triage process.
+  es: Por favor, anote la información sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please write down the information about the ambulance transfer.
+  es: Por favor, anote la información sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Please write down the information about my discharge instructions.
+  es: Por favor, anote la información sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like to talk to the doctor about the emergency evaluation.
+  es: Me gustaría hablar con el médico sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like to talk to the doctor about my wound.
+  es: Me gustaría hablar con el médico sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like to talk to the doctor about the triage process.
+  es: Me gustaría hablar con el médico sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like to talk to the doctor about the ambulance transfer.
+  es: Me gustaría hablar con el médico sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like to talk to the doctor about my discharge instructions.
+  es: Me gustaría hablar con el médico sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you speak more slowly when explaining the emergency evaluation?
+  es: ¿Podría hablar más despacio al explicar la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you speak more slowly when explaining my wound?
+  es: ¿Podría hablar más despacio al explicar mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you speak more slowly when explaining the triage process?
+  es: ¿Podría hablar más despacio al explicar el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you speak more slowly when explaining the ambulance transfer?
+  es: ¿Podría hablar más despacio al explicar el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you speak more slowly when explaining my discharge instructions?
+  es: ¿Podría hablar más despacio al explicar mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Thank you for explaining the emergency evaluation.
+  es: Gracias por explicar la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Thank you for explaining my wound.
+  es: Gracias por explicar mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Thank you for explaining the triage process.
+  es: Gracias por explicar el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Thank you for explaining the ambulance transfer.
+  es: Gracias por explicar el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Thank you for explaining my discharge instructions.
+  es: Gracias por explicar mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Is there a brochure about the emergency evaluation?
+  es: ¿Hay un folleto sobre la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Is there a brochure about my wound?
+  es: ¿Hay un folleto sobre mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Is there a brochure about the triage process?
+  es: ¿Hay un folleto sobre el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Is there a brochure about the ambulance transfer?
+  es: ¿Hay un folleto sobre el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Is there a brochure about my discharge instructions?
+  es: ¿Hay un folleto sobre mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can my family ask questions about the emergency evaluation?
+  es: ¿Puede mi familia hacer preguntas sobre la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can my family ask questions about my wound?
+  es: ¿Puede mi familia hacer preguntas sobre mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can my family ask questions about the triage process?
+  es: ¿Puede mi familia hacer preguntas sobre el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can my family ask questions about the ambulance transfer?
+  es: ¿Puede mi familia hacer preguntas sobre el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Can my family ask questions about my discharge instructions?
+  es: ¿Puede mi familia hacer preguntas sobre mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I want to make sure I understand the emergency evaluation.
+  es: Quiero asegurarme de entender la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I want to make sure I understand my wound.
+  es: Quiero asegurarme de entender mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I want to make sure I understand the triage process.
+  es: Quiero asegurarme de entender el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I want to make sure I understand the ambulance transfer.
+  es: Quiero asegurarme de entender el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I want to make sure I understand my discharge instructions.
+  es: Quiero asegurarme de entender mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you use simpler words to explain the emergency evaluation?
+  es: ¿Podría usar palabras más sencillas para explicar la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you use simpler words to explain my wound?
+  es: ¿Podría usar palabras más sencillas para explicar mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you use simpler words to explain the triage process?
+  es: ¿Podría usar palabras más sencillas para explicar el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you use simpler words to explain the ambulance transfer?
+  es: ¿Podría usar palabras más sencillas para explicar el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Could you use simpler words to explain my discharge instructions?
+  es: ¿Podría usar palabras más sencillas para explicar mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Where can I find information in Spanish about the emergency evaluation?
+  es: ¿Dónde puedo encontrar información en español sobre la evaluación de urgencia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Where can I find information in Spanish about my wound?
+  es: ¿Dónde puedo encontrar información en español sobre mi herida?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Where can I find information in Spanish about the triage process?
+  es: ¿Dónde puedo encontrar información en español sobre el proceso de triaje?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Where can I find information in Spanish about the ambulance transfer?
+  es: ¿Dónde puedo encontrar información en español sobre el traslado en ambulancia?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: Where can I find information in Spanish about my discharge instructions?
+  es: ¿Dónde puedo encontrar información en español sobre mis indicaciones de alta?
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: We have not yet discussed the emergency evaluation.
+  es: Todavía no hemos hablado sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: We have not yet discussed my wound.
+  es: Todavía no hemos hablado sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: We have not yet discussed the triage process.
+  es: Todavía no hemos hablado sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: We have not yet discussed the ambulance transfer.
+  es: Todavía no hemos hablado sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: We have not yet discussed my discharge instructions.
+  es: Todavía no hemos hablado sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I wrote down my questions about the emergency evaluation.
+  es: Anoté mis preguntas sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I wrote down my questions about my wound.
+  es: Anoté mis preguntas sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I wrote down my questions about the triage process.
+  es: Anoté mis preguntas sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I wrote down my questions about the ambulance transfer.
+  es: Anoté mis preguntas sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I wrote down my questions about my discharge instructions.
+  es: Anoté mis preguntas sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like a copy of the information about the emergency evaluation.
+  es: Me gustaría recibir una copia de la información sobre la evaluación de urgencia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like a copy of the information about my wound.
+  es: Me gustaría recibir una copia de la información sobre mi herida.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like a copy of the information about the triage process.
+  es: Me gustaría recibir una copia de la información sobre el proceso de triaje.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like a copy of the information about the ambulance transfer.
+  es: Me gustaría recibir una copia de la información sobre el traslado en ambulancia.
+  notes: Authored communication practice.
+  specialty: emergency
+- difficulty: 2
+  en: I would like a copy of the information about my discharge instructions.
+  es: Me gustaría recibir una copia de la información sobre mis indicaciones de alta.
+  notes: Authored communication practice.
+  specialty: emergency

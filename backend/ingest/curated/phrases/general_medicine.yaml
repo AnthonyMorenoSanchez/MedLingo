@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my symptoms?
+  es: ¿Puede explicar mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can you explain my appointment?
+  es: ¿Puede explicar mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can you explain my medication?
+  es: ¿Puede explicar mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can you explain my test results?
+  es: ¿Puede explicar mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can you explain my treatment?
+  es: ¿Puede explicar mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I have a question about my symptoms.
+  es: Tengo una pregunta sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I have a question about my appointment.
+  es: Tengo una pregunta sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I have a question about my medication.
+  es: Tengo una pregunta sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I have a question about my test results.
+  es: Tengo una pregunta sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I have a question about my treatment.
+  es: Tengo una pregunta sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I need help understanding my symptoms.
+  es: Necesito ayuda para entender mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I need help understanding my appointment.
+  es: Necesito ayuda para entender mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I need help understanding my medication.
+  es: Necesito ayuda para entender mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I need help understanding my test results.
+  es: Necesito ayuda para entender mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I need help understanding my treatment.
+  es: Necesito ayuda para entender mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please tell me more about my symptoms.
+  es: Por favor, dígame más sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please tell me more about my appointment.
+  es: Por favor, dígame más sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please tell me more about my medication.
+  es: Por favor, dígame más sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please tell me more about my test results.
+  es: Por favor, dígame más sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please tell me more about my treatment.
+  es: Por favor, dígame más sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like written information about my symptoms.
+  es: Me gustaría recibir información escrita sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like written information about my appointment.
+  es: Me gustaría recibir información escrita sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like written information about my medication.
+  es: Me gustaría recibir información escrita sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like written information about my test results.
+  es: Me gustaría recibir información escrita sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like written information about my treatment.
+  es: Me gustaría recibir información escrita sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could we discuss my symptoms with an interpreter?
+  es: ¿Podríamos hablar sobre mis síntomas con un intérprete?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could we discuss my appointment with an interpreter?
+  es: ¿Podríamos hablar sobre mi cita con un intérprete?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could we discuss my medication with an interpreter?
+  es: ¿Podríamos hablar sobre mi medicamento con un intérprete?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could we discuss my test results with an interpreter?
+  es: ¿Podríamos hablar sobre mis resultados con un intérprete?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could we discuss my treatment with an interpreter?
+  es: ¿Podríamos hablar sobre mi tratamiento con un intérprete?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you explain my symptoms again?
+  es: ¿Podría explicar mis síntomas otra vez?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you explain my appointment again?
+  es: ¿Podría explicar mi cita otra vez?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you explain my medication again?
+  es: ¿Podría explicar mi medicamento otra vez?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you explain my test results again?
+  es: ¿Podría explicar mis resultados otra vez?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you explain my treatment again?
+  es: ¿Podría explicar mi tratamiento otra vez?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I do not understand the information about my symptoms.
+  es: No entiendo la información sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I do not understand the information about my appointment.
+  es: No entiendo la información sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I do not understand the information about my medication.
+  es: No entiendo la información sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I do not understand the information about my test results.
+  es: No entiendo la información sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I do not understand the information about my treatment.
+  es: No entiendo la información sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Who can answer my questions about my symptoms?
+  es: ¿Quién puede responder mis preguntas sobre mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Who can answer my questions about my appointment?
+  es: ¿Quién puede responder mis preguntas sobre mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Who can answer my questions about my medication?
+  es: ¿Quién puede responder mis preguntas sobre mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Who can answer my questions about my test results?
+  es: ¿Quién puede responder mis preguntas sobre mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Who can answer my questions about my treatment?
+  es: ¿Quién puede responder mis preguntas sobre mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can we review the information about my symptoms?
+  es: ¿Podemos revisar la información sobre mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can we review the information about my appointment?
+  es: ¿Podemos revisar la información sobre mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can we review the information about my medication?
+  es: ¿Podemos revisar la información sobre mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can we review the information about my test results?
+  es: ¿Podemos revisar la información sobre mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can we review the information about my treatment?
+  es: ¿Podemos revisar la información sobre mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please write down the information about my symptoms.
+  es: Por favor, anote la información sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please write down the information about my appointment.
+  es: Por favor, anote la información sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please write down the information about my medication.
+  es: Por favor, anote la información sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please write down the information about my test results.
+  es: Por favor, anote la información sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Please write down the information about my treatment.
+  es: Por favor, anote la información sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like to talk to the doctor about my symptoms.
+  es: Me gustaría hablar con el médico sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like to talk to the doctor about my appointment.
+  es: Me gustaría hablar con el médico sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like to talk to the doctor about my medication.
+  es: Me gustaría hablar con el médico sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like to talk to the doctor about my test results.
+  es: Me gustaría hablar con el médico sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like to talk to the doctor about my treatment.
+  es: Me gustaría hablar con el médico sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you speak more slowly when explaining my symptoms?
+  es: ¿Podría hablar más despacio al explicar mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you speak more slowly when explaining my appointment?
+  es: ¿Podría hablar más despacio al explicar mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you speak more slowly when explaining my medication?
+  es: ¿Podría hablar más despacio al explicar mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you speak more slowly when explaining my test results?
+  es: ¿Podría hablar más despacio al explicar mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you speak more slowly when explaining my treatment?
+  es: ¿Podría hablar más despacio al explicar mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Thank you for explaining my symptoms.
+  es: Gracias por explicar mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Thank you for explaining my appointment.
+  es: Gracias por explicar mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Thank you for explaining my medication.
+  es: Gracias por explicar mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Thank you for explaining my test results.
+  es: Gracias por explicar mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Thank you for explaining my treatment.
+  es: Gracias por explicar mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Is there a brochure about my symptoms?
+  es: ¿Hay un folleto sobre mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Is there a brochure about my appointment?
+  es: ¿Hay un folleto sobre mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Is there a brochure about my medication?
+  es: ¿Hay un folleto sobre mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Is there a brochure about my test results?
+  es: ¿Hay un folleto sobre mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Is there a brochure about my treatment?
+  es: ¿Hay un folleto sobre mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can my family ask questions about my symptoms?
+  es: ¿Puede mi familia hacer preguntas sobre mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can my family ask questions about my appointment?
+  es: ¿Puede mi familia hacer preguntas sobre mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can my family ask questions about my medication?
+  es: ¿Puede mi familia hacer preguntas sobre mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can my family ask questions about my test results?
+  es: ¿Puede mi familia hacer preguntas sobre mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Can my family ask questions about my treatment?
+  es: ¿Puede mi familia hacer preguntas sobre mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I want to make sure I understand my symptoms.
+  es: Quiero asegurarme de entender mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I want to make sure I understand my appointment.
+  es: Quiero asegurarme de entender mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I want to make sure I understand my medication.
+  es: Quiero asegurarme de entender mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I want to make sure I understand my test results.
+  es: Quiero asegurarme de entender mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I want to make sure I understand my treatment.
+  es: Quiero asegurarme de entender mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you use simpler words to explain my symptoms?
+  es: ¿Podría usar palabras más sencillas para explicar mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you use simpler words to explain my appointment?
+  es: ¿Podría usar palabras más sencillas para explicar mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you use simpler words to explain my medication?
+  es: ¿Podría usar palabras más sencillas para explicar mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you use simpler words to explain my test results?
+  es: ¿Podría usar palabras más sencillas para explicar mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Could you use simpler words to explain my treatment?
+  es: ¿Podría usar palabras más sencillas para explicar mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Where can I find information in Spanish about my symptoms?
+  es: ¿Dónde puedo encontrar información en español sobre mis síntomas?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Where can I find information in Spanish about my appointment?
+  es: ¿Dónde puedo encontrar información en español sobre mi cita?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Where can I find information in Spanish about my medication?
+  es: ¿Dónde puedo encontrar información en español sobre mi medicamento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Where can I find information in Spanish about my test results?
+  es: ¿Dónde puedo encontrar información en español sobre mis resultados?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: Where can I find information in Spanish about my treatment?
+  es: ¿Dónde puedo encontrar información en español sobre mi tratamiento?
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: We have not yet discussed my symptoms.
+  es: Todavía no hemos hablado sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: We have not yet discussed my appointment.
+  es: Todavía no hemos hablado sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: We have not yet discussed my medication.
+  es: Todavía no hemos hablado sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: We have not yet discussed my test results.
+  es: Todavía no hemos hablado sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: We have not yet discussed my treatment.
+  es: Todavía no hemos hablado sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I wrote down my questions about my symptoms.
+  es: Anoté mis preguntas sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I wrote down my questions about my appointment.
+  es: Anoté mis preguntas sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I wrote down my questions about my medication.
+  es: Anoté mis preguntas sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I wrote down my questions about my test results.
+  es: Anoté mis preguntas sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I wrote down my questions about my treatment.
+  es: Anoté mis preguntas sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like a copy of the information about my symptoms.
+  es: Me gustaría recibir una copia de la información sobre mis síntomas.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like a copy of the information about my appointment.
+  es: Me gustaría recibir una copia de la información sobre mi cita.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like a copy of the information about my medication.
+  es: Me gustaría recibir una copia de la información sobre mi medicamento.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like a copy of the information about my test results.
+  es: Me gustaría recibir una copia de la información sobre mis resultados.
+  notes: Authored communication practice.
+  specialty: general_medicine
+- difficulty: 2
+  en: I would like a copy of the information about my treatment.
+  es: Me gustaría recibir una copia de la información sobre mi tratamiento.
+  notes: Authored communication practice.
+  specialty: general_medicine

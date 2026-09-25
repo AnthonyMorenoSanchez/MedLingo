@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my abdominal pain?
+  es: ¿Puede explicar mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can you explain the endoscopy?
+  es: ¿Puede explicar la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can you explain my digestion?
+  es: ¿Puede explicar mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can you explain my liver tests?
+  es: ¿Puede explicar mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can you explain my diet?
+  es: ¿Puede explicar mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I have a question about my abdominal pain.
+  es: Tengo una pregunta sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I have a question about the endoscopy.
+  es: Tengo una pregunta sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I have a question about my digestion.
+  es: Tengo una pregunta sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I have a question about my liver tests.
+  es: Tengo una pregunta sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I have a question about my diet.
+  es: Tengo una pregunta sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I need help understanding my abdominal pain.
+  es: Necesito ayuda para entender mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I need help understanding the endoscopy.
+  es: Necesito ayuda para entender la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I need help understanding my digestion.
+  es: Necesito ayuda para entender mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I need help understanding my liver tests.
+  es: Necesito ayuda para entender mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I need help understanding my diet.
+  es: Necesito ayuda para entender mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please tell me more about my abdominal pain.
+  es: Por favor, dígame más sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please tell me more about the endoscopy.
+  es: Por favor, dígame más sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please tell me more about my digestion.
+  es: Por favor, dígame más sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please tell me more about my liver tests.
+  es: Por favor, dígame más sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please tell me more about my diet.
+  es: Por favor, dígame más sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like written information about my abdominal pain.
+  es: Me gustaría recibir información escrita sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like written information about the endoscopy.
+  es: Me gustaría recibir información escrita sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like written information about my digestion.
+  es: Me gustaría recibir información escrita sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like written information about my liver tests.
+  es: Me gustaría recibir información escrita sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like written information about my diet.
+  es: Me gustaría recibir información escrita sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could we discuss my abdominal pain with an interpreter?
+  es: ¿Podríamos hablar sobre mi dolor abdominal con un intérprete?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could we discuss the endoscopy with an interpreter?
+  es: ¿Podríamos hablar sobre la endoscopia con un intérprete?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could we discuss my digestion with an interpreter?
+  es: ¿Podríamos hablar sobre mi digestión con un intérprete?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could we discuss my liver tests with an interpreter?
+  es: ¿Podríamos hablar sobre mis pruebas del hígado con un intérprete?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could we discuss my diet with an interpreter?
+  es: ¿Podríamos hablar sobre mi alimentación con un intérprete?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you explain my abdominal pain again?
+  es: ¿Podría explicar mi dolor abdominal otra vez?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you explain the endoscopy again?
+  es: ¿Podría explicar la endoscopia otra vez?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you explain my digestion again?
+  es: ¿Podría explicar mi digestión otra vez?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you explain my liver tests again?
+  es: ¿Podría explicar mis pruebas del hígado otra vez?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you explain my diet again?
+  es: ¿Podría explicar mi alimentación otra vez?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I do not understand the information about my abdominal pain.
+  es: No entiendo la información sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I do not understand the information about the endoscopy.
+  es: No entiendo la información sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I do not understand the information about my digestion.
+  es: No entiendo la información sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I do not understand the information about my liver tests.
+  es: No entiendo la información sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I do not understand the information about my diet.
+  es: No entiendo la información sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Who can answer my questions about my abdominal pain?
+  es: ¿Quién puede responder mis preguntas sobre mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Who can answer my questions about the endoscopy?
+  es: ¿Quién puede responder mis preguntas sobre la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Who can answer my questions about my digestion?
+  es: ¿Quién puede responder mis preguntas sobre mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Who can answer my questions about my liver tests?
+  es: ¿Quién puede responder mis preguntas sobre mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Who can answer my questions about my diet?
+  es: ¿Quién puede responder mis preguntas sobre mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can we review the information about my abdominal pain?
+  es: ¿Podemos revisar la información sobre mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can we review the information about the endoscopy?
+  es: ¿Podemos revisar la información sobre la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can we review the information about my digestion?
+  es: ¿Podemos revisar la información sobre mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can we review the information about my liver tests?
+  es: ¿Podemos revisar la información sobre mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can we review the information about my diet?
+  es: ¿Podemos revisar la información sobre mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please write down the information about my abdominal pain.
+  es: Por favor, anote la información sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please write down the information about the endoscopy.
+  es: Por favor, anote la información sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please write down the information about my digestion.
+  es: Por favor, anote la información sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please write down the information about my liver tests.
+  es: Por favor, anote la información sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Please write down the information about my diet.
+  es: Por favor, anote la información sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like to talk to the doctor about my abdominal pain.
+  es: Me gustaría hablar con el médico sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like to talk to the doctor about the endoscopy.
+  es: Me gustaría hablar con el médico sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like to talk to the doctor about my digestion.
+  es: Me gustaría hablar con el médico sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like to talk to the doctor about my liver tests.
+  es: Me gustaría hablar con el médico sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like to talk to the doctor about my diet.
+  es: Me gustaría hablar con el médico sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my abdominal pain?
+  es: ¿Podría hablar más despacio al explicar mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you speak more slowly when explaining the endoscopy?
+  es: ¿Podría hablar más despacio al explicar la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my digestion?
+  es: ¿Podría hablar más despacio al explicar mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my liver tests?
+  es: ¿Podría hablar más despacio al explicar mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my diet?
+  es: ¿Podría hablar más despacio al explicar mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Thank you for explaining my abdominal pain.
+  es: Gracias por explicar mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Thank you for explaining the endoscopy.
+  es: Gracias por explicar la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Thank you for explaining my digestion.
+  es: Gracias por explicar mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Thank you for explaining my liver tests.
+  es: Gracias por explicar mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Thank you for explaining my diet.
+  es: Gracias por explicar mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Is there a brochure about my abdominal pain?
+  es: ¿Hay un folleto sobre mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Is there a brochure about the endoscopy?
+  es: ¿Hay un folleto sobre la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Is there a brochure about my digestion?
+  es: ¿Hay un folleto sobre mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Is there a brochure about my liver tests?
+  es: ¿Hay un folleto sobre mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Is there a brochure about my diet?
+  es: ¿Hay un folleto sobre mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can my family ask questions about my abdominal pain?
+  es: ¿Puede mi familia hacer preguntas sobre mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can my family ask questions about the endoscopy?
+  es: ¿Puede mi familia hacer preguntas sobre la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can my family ask questions about my digestion?
+  es: ¿Puede mi familia hacer preguntas sobre mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can my family ask questions about my liver tests?
+  es: ¿Puede mi familia hacer preguntas sobre mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Can my family ask questions about my diet?
+  es: ¿Puede mi familia hacer preguntas sobre mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I want to make sure I understand my abdominal pain.
+  es: Quiero asegurarme de entender mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I want to make sure I understand the endoscopy.
+  es: Quiero asegurarme de entender la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I want to make sure I understand my digestion.
+  es: Quiero asegurarme de entender mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I want to make sure I understand my liver tests.
+  es: Quiero asegurarme de entender mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I want to make sure I understand my diet.
+  es: Quiero asegurarme de entender mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you use simpler words to explain my abdominal pain?
+  es: ¿Podría usar palabras más sencillas para explicar mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you use simpler words to explain the endoscopy?
+  es: ¿Podría usar palabras más sencillas para explicar la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you use simpler words to explain my digestion?
+  es: ¿Podría usar palabras más sencillas para explicar mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you use simpler words to explain my liver tests?
+  es: ¿Podría usar palabras más sencillas para explicar mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Could you use simpler words to explain my diet?
+  es: ¿Podría usar palabras más sencillas para explicar mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Where can I find information in Spanish about my abdominal pain?
+  es: ¿Dónde puedo encontrar información en español sobre mi dolor abdominal?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Where can I find information in Spanish about the endoscopy?
+  es: ¿Dónde puedo encontrar información en español sobre la endoscopia?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Where can I find information in Spanish about my digestion?
+  es: ¿Dónde puedo encontrar información en español sobre mi digestión?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Where can I find information in Spanish about my liver tests?
+  es: ¿Dónde puedo encontrar información en español sobre mis pruebas del hígado?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: Where can I find information in Spanish about my diet?
+  es: ¿Dónde puedo encontrar información en español sobre mi alimentación?
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: We have not yet discussed my abdominal pain.
+  es: Todavía no hemos hablado sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: We have not yet discussed the endoscopy.
+  es: Todavía no hemos hablado sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: We have not yet discussed my digestion.
+  es: Todavía no hemos hablado sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: We have not yet discussed my liver tests.
+  es: Todavía no hemos hablado sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: We have not yet discussed my diet.
+  es: Todavía no hemos hablado sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I wrote down my questions about my abdominal pain.
+  es: Anoté mis preguntas sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I wrote down my questions about the endoscopy.
+  es: Anoté mis preguntas sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I wrote down my questions about my digestion.
+  es: Anoté mis preguntas sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I wrote down my questions about my liver tests.
+  es: Anoté mis preguntas sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I wrote down my questions about my diet.
+  es: Anoté mis preguntas sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like a copy of the information about my abdominal pain.
+  es: Me gustaría recibir una copia de la información sobre mi dolor abdominal.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like a copy of the information about the endoscopy.
+  es: Me gustaría recibir una copia de la información sobre la endoscopia.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like a copy of the information about my digestion.
+  es: Me gustaría recibir una copia de la información sobre mi digestión.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like a copy of the information about my liver tests.
+  es: Me gustaría recibir una copia de la información sobre mis pruebas del hígado.
+  notes: Authored communication practice.
+  specialty: gastroenterology
+- difficulty: 2
+  en: I would like a copy of the information about my diet.
+  es: Me gustaría recibir una copia de la información sobre mi alimentación.
+  notes: Authored communication practice.
+  specialty: gastroenterology

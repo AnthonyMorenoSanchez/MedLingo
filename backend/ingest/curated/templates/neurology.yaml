@@ -1,0 +1,108 @@
+- difficulty: 2
+  en: The record mentions {TERM}.
+  es: El expediente menciona {TERM}.
+  key: neurology_0
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: We are discussing {TERM}.
+  es: Estamos hablando de {TERM}.
+  key: neurology_1
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: The question is about {TERM}.
+  es: La pregunta es sobre {TERM}.
+  key: neurology_2
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: Please explain the term {TERM}.
+  es: Por favor, explique el término {TERM}.
+  key: neurology_3
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: I need information about {TERM}.
+  es: Necesito información sobre {TERM}.
+  key: neurology_4
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: We reviewed information about {TERM}.
+  es: Revisamos información sobre {TERM}.
+  key: neurology_5
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: Do you have questions about {TERM}?
+  es: ¿Tiene preguntas sobre {TERM}?
+  key: neurology_6
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: I would like to learn about {TERM}.
+  es: Me gustaría aprender sobre {TERM}.
+  key: neurology_7
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: This section describes {TERM}.
+  es: Esta sección describe {TERM}.
+  key: neurology_8
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: We can talk about {TERM}.
+  es: Podemos hablar sobre {TERM}.
+  key: neurology_9
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: The interpreter explained the term {TERM}.
+  es: El intérprete explicó el término {TERM}.
+  key: neurology_10
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology
+- difficulty: 2
+  en: Where can I read about {TERM}?
+  es: ¿Dónde puedo leer sobre {TERM}?
+  key: neurology_11
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: neurology

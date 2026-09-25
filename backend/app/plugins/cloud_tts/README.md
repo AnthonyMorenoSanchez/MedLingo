@@ -1,0 +1,2 @@
+# Cloud speech (optional)
+Set enabled=true in plugins.toml, choose google, azure, or elevenlabs, and supply the provider key through the environment. Restart the server and select Cloud speech in Settings. Text is sent to the chosen service only when speech is requested. Providers charge per character or credit according to their current plans. No paid requests were made during verification. Browser voices remain available. Audio metadata lives in a separate cache index, because seed data is read-only at runtime. Configure a provider-specific voice name or ID.

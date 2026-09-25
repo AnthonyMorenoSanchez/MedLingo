@@ -1,0 +1,339 @@
+abdomen: m
+aborto espontáneo: m
+accidente cerebrovascular: m
+aceite: m
+acidez estomacal: f
+agente: m
+agua: f
+alergia: f
+alimentación: f
+alucinación: f
+ambulancia: f
+amplitud de movimiento: f
+anemia: f
+angina de pecho: f
+ansiedad: f
+anticoncepción: f
+apetito: m
+apnea del sueño: f
+aponeurosis: f
+apófisis: f
+arritmia: f
+arteria: f
+arteria coronaria: f
+articulación: f
+artrogriposis: f
+asma: f
+ataque de pánico: m
+atención prenatal: f
+atragantamiento: m
+aurícula: f
+bazo: m
+boca: f
+brazo: m
+bronquio: m
+bronquitis: f
+bypass: m
+cabeza: f
+cadera: f
+camilla: f
+canal: m
+cara: f
+carbón: m
+carne: f
+cartílago: m
+cerebro: m
+cesárea: f
+choque: m
+cirrosis: f
+cita: f
+coagulación: f
+codo: m
+colesterol: m
+colon: m
+colonoscopia: f
+concentración: f
+conciencia: f
+conducto: m
+consulta de control infantil: f
+consumo de sustancias: m
+contracción: f
+convulsión: f
+coordinación: f
+corazón: m
+cordón: m
+costilla: f
+coágulo: m
+crecimiento: m
+crisis: f
+cuello: m
+cuello uterino: m
+cuidador: m
+cultivo de orina: m
+cálculo renal: m
+cáliz: m
+cáncer: m
+cérvix: m
+debilidad: f
+dedo: m
+deficiencia de hierro: f
+deglución: f
+delirio: m
+dentición: f
+depresión: f
+desarrollo: m
+desastre: m
+desesperanza: f
+deshidratación: f
+desorden: m
+diabetes: f
+diagnóstico: m
+diarrea: f
+diente: m
+disostosis: f
+dolor: m
+dolor abdominal: m
+dolor al orinar: m
+dolor de cabeza: m
+dolor de espalda: m
+dolor de garganta: m
+dolor en el pecho: m
+dosis: f
+déficit: m
+día: m
+ecocardiograma: m
+ecografía: f
+edema: m
+electrocardiograma: m
+electroencefalograma: m
+embarazo: m
+embolia pulmonar: f
+endoscopia: f
+enfermedad de células falciformes: f
+entumecimiento: m
+epidermólisis: f
+epilepsia: f
+equilibrio: m
+erupción cutánea: f
+esclerosis: f
+esclerosis múltiple: f
+escroto: m
+esguince: m
+espalda: f
+espirometría: f
+esputo: m
+esquizofrenia: f
+estado de ánimo: m
+estatura: f
+estenosis: f
+estreñimiento: m
+estrés: m
+estómago: m
+esófago: m
+examen: m
+expectoración con sangre: f
+exploración: f
+falta de aire: f
+faringe: f
+fascículo: m
+fatiga: f
+fecha probable de parto: f
+feto: m
+fiebre: f
+fisioterapia: f
+foramen: m
+fractura: f
+frecuencia cardíaca: f
+frecuencia urinaria: f
+frotis: m
+función renal: f
+fémur: m
+férula: f
+fórmula infantil: f
+garganta: f
+glóbulo blanco: m
+glóbulo rojo: m
+heces: f
+hematocrito: m
+hemoglobina: f
+hemograma completo: m
+hepatitis: f
+herida: f
+hipertensión: f
+hombre: m
+hombro: m
+hueso: m
+hígado: m
+ictericia: f
+ictiosis: f
+incontinencia urinaria: f
+infarto de miocardio: m
+infección de las vías urinarias: f
+infección del oído: f
+inhalador: m
+insomnio: m
+insuficiencia cardíaca: f
+insuficiencia respiratoria: f
+intestino: m
+intoxicación: f
+iris: m
+lactancia materna: f
+lactante: m
+laringe: f
+larva: f
+lengua: f
+leucemia: f
+ligamento: m
+linfoma: m
+luxación: f
+líquido: m
+líquido amniótico: m
+mano: f
+mapa: m
+marcapasos: m
+mareo: m
+matriz: f
+medicamento: m
+memoria: f
+menopausia: f
+menstruación: f
+miembro: m
+migraña: f
+moretón: m
+mucopolisacaridosis: f
+muestra de orina: f
+muestra de sangre: f
+muleta: f
+muñeca: f
+médula espinal: f
+médula ósea: f
+músculo: m
+nariz: f
+necrosis: f
+nervio: m
+neumonía: f
+niño: m
+nucleoide: m
+náusea: f
+ojo: m
+operón: m
+oreja: f
+orina: f
+ostium: m
+ovario: m
+oxígeno: m
+palidez: f
+palpitación: f
+paro cardíaco: m
+parto: m
+parálisis: f
+pañal: m
+pecho: m
+pediatra: mf
+pene: m
+pensamiento suicida: m
+perfil: m
+peso: m
+peso al nacer: m
+peste: f
+pie: m
+piel: f
+pierna: f
+placenta: f
+plaqueta: f
+pleura: f
+prematuridad: f
+presión arterial: f
+problema: m
+prurito: m
+próstata: f
+psicosis: f
+psicoterapia: f
+psiquiatra: mf
+puente: m
+pulmón: m
+pulso: m
+punción lumbar: f
+páncreas: m
+pérdida del conocimiento: f
+quemadura: f
+quiste: m
+radio: f
+radiografía de tórax: f
+raíz: f
+reacción alérgica: f
+reanimación: f
+receta: f
+recién nacido: m
+recto: m
+red: f
+red de apoyo: f
+reflejo: m
+registro de vacunación: m
+región: f
+respiración: f
+retención urinaria: f
+riñón: m
+rodilla: f
+salud: f
+salud mental: f
+sangrado: m
+sangrado vaginal: m
+sangre: f
+sangre en la orina: f
+saturación de oxígeno: f
+sensibilidad: f
+ser: m
+servicio de urgencias: m
+sibilancia: f
+signos vitales: m
+sinapsis: f
+sindrome: m
+sistema: m
+sonda: f
+sudor: m
+sueño: m
+sutura: f
+síncope: m
+síndrome: m
+síntoma: m
+talón: m
+temblor: m
+temperatura: f
+tendón: m
+test: m
+testículo: m
+tiroides: f
+tobillo: m
+tos: f
+transfusión: f
+trasplante: m
+trastorno bipolar: m
+tratamiento: m
+traumatismo: m
+triaje: m
+tristeza: f
+trompa de Falopio: f
+tráquea: f
+tuberculosis: f
+tórax: m
+túnel: m
+unión: f
+uretra: f
+urgencia: f
+urgencia urinaria: f
+uréter: m
+vacuna: f
+vejiga: f
+vena: f
+vendaje: m
+ventrículo: m
+vesícula biliar: f
+válvula cardíaca: f
+vía intravenosa: f
+vómito: m
+yeso: m
+águila: f
+íleon: m
+úlcera: f
+útero: m

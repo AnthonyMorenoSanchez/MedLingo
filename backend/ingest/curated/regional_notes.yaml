@@ -1,0 +1,29 @@
+estreñimiento:
+- es: constipación
+  note: Usage varies; ask for clarification because constipado can refer to a cold
+    in Spain.
+  region: Latin America
+fisioterapia:
+- es: kinesiología
+  note: Common name for the rehabilitation discipline.
+  region: Argentina
+glóbulo rojo:
+- es: eritrocito
+  note: Technical synonym.
+  region: Clinical
+hemograma completo:
+- es: biometría hemática
+  note: Common name for a complete blood count.
+  region: Mexico
+moretón:
+- es: hematoma
+  note: Hematoma is also a clinical term throughout Latin America.
+  region: Spain
+radiografía:
+- es: placa
+  note: Colloquial term, specify the imaging study in formal communication.
+  region: Latin America
+urgencias:
+- es: guardia
+  note: Guardia may refer to the emergency department.
+  region: Argentina

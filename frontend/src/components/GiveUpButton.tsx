@@ -1,0 +1,1 @@
+import {useRef} from 'react';import {t} from '../i18n';export default function GiveUpButton({onGiveUp,disabled}:{onGiveUp:()=>void;disabled:boolean}){const locked=useRef(false);return <button disabled={disabled} className="btn give-up" onClick={()=>{if(locked.current)return;locked.current=true;setTimeout(()=>{onGiveUp();locked.current=false},400)}}>{t('giveup')}</button>}

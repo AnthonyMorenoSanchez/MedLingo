@@ -1,0 +1,32 @@
+{
+  "captured": "2026-09-13",
+  "wikidata": {
+    "url": "https://query.wikidata.org/sparql",
+    "classes": {
+      "disease": "Q12136",
+      "symptom": "Q169872",
+      "anatomy": "Q4936952",
+      "drug": "Q12140",
+      "procedure": "Q796194",
+      "test": "Q2671652"
+    },
+    "license": "CC0",
+    "files": "wikidata_*.json"
+  },
+  "medlineplus": {
+    "url": "https://medlineplus.gov/xml/mplus_topics_2026-09-12.xml",
+    "license": "Public-domain NLM topic metadata",
+    "restriction": "Do not imply NLM endorsement. Linked third-party articles are not included as content."
+  },
+  "wiktionary": {
+    "url": "https://en.wiktionary.org/w/api.php",
+    "lookups": 300,
+    "parsed_genders": 186,
+    "license": "CC BY-SA, see current site terms",
+    "raw_revisions": "wiktionary_raw.json"
+  },
+  "decs": {
+    "status": "HTTP 403",
+    "descriptors": 0
+  }
+}

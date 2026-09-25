@@ -1,0 +1,1 @@
+import {useEffect,useRef,type ReactNode} from 'react';import {t} from '../../i18n';export default function Modal({children,onClose}:{children:ReactNode;onClose:()=>void}){const ref=useRef<HTMLDialogElement>(null);useEffect(()=>{ref.current?.showModal()},[]);return <dialog ref={ref} onCancel={onClose}>{children}<button onClick={onClose}>{t('close')}</button></dialog>}

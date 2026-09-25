@@ -1,0 +1,2 @@
+import {create} from 'zustand';import {api} from '../api/client';
+export const useProfile=create<{settings:Record<string,any>;load:()=>Promise<void>;save:(s:Record<string,any>)=>Promise<void>}>(set=>({settings:{},load:async()=>{const p=await api('/profiles/current');set({settings:p.settings})},save:async settings=>{const p=await api('/profiles/current','PUT',{settings});set({settings:p.settings})}}));

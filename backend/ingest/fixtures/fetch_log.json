@@ -1,0 +1,32 @@
+[
+  {
+    "source": "disease",
+    "status": "fetched",
+    "at": "2026-09-13T17:59:26.731711+00:00"
+  },
+  {
+    "source": "symptom",
+    "status": "fetched",
+    "at": "2026-09-13T17:59:32.635669+00:00"
+  },
+  {
+    "source": "anatomy",
+    "status": "fetched",
+    "at": "2026-09-13T17:59:50.350935+00:00"
+  },
+  {
+    "source": "drug",
+    "status": "fetched",
+    "at": "2026-09-13T17:59:58.861417+00:00"
+  },
+  {
+    "source": "procedure",
+    "status": "fetched",
+    "at": "2026-09-13T18:00:01.848904+00:00"
+  },
+  {
+    "source": "test",
+    "status": "fetched",
+    "at": "2026-09-13T18:00:03.325082+00:00"
+  }
+]

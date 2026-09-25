@@ -1,0 +1,405 @@
+bash scripts/verify.sh
+make[1]: Entering directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+cd backend && "/workspace/scratch/e553f40bd53b/work/medlingo/.venv/bin/python" -m ruff check app ingest tests
+All checks passed!
+cd backend && "/workspace/scratch/e553f40bd53b/work/medlingo/.venv/bin/python" -m mypy app ingest
+Success: no issues found in 81 source files
+cd frontend && npm run lint
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> medlingo@0.1.0 lint
+> eslint src --ext .ts,.tsx && tsc --noEmit
+
+make[1]: Leaving directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+make[1]: Entering directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+cd backend && "/workspace/scratch/e553f40bd53b/work/medlingo/.venv/bin/python" -m pytest --cov=app.engine --cov=ingest --cov-report=term-missing --cov-report=json:../data/coverage.json --cov-fail-under=85
+============================= test session starts ==============================
+platform linux -- Python 3.12.14, pytest-9.1.1, pluggy-1.6.0
+rootdir: /workspace/scratch/e553f40bd53b/work/medlingo/backend
+configfile: pyproject.toml
+testpaths: tests
+plugins: anyio-4.15.1, asyncio-1.4.0, cov-7.1.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 112 items
+
+tests/ingest/test_build_bank_fixtures.py ......                          [  5%]
+tests/ingest/test_source_adapters.py ...                                 [  8%]
+tests/integration/test_api_attempts.py ..                                [  9%]
+tests/integration/test_api_banks.py .                                    [ 10%]
+tests/integration/test_api_encounters.py .                               [ 11%]
+tests/integration/test_api_questions.py ...........                      [ 21%]
+tests/integration/test_api_sessions.py ......                            [ 26%]
+tests/integration/test_api_stats.py .                                    [ 27%]
+tests/integration/test_persistence_restart.py .                          [ 28%]
+tests/integration/test_profiles_ai_unique.py ..................          [ 44%]
+tests/unit/test_dedupe.py .                                              [ 45%]
+tests/unit/test_distractors.py .                                         [ 46%]
+tests/unit/test_gender.py ..                                             [ 48%]
+tests/unit/test_generators.py ...........                                [ 58%]
+tests/unit/test_normalize.py ..                                          [ 59%]
+tests/unit/test_plugins.py .......                                       [ 66%]
+tests/unit/test_scheduler.py .....                                       [ 70%]
+tests/unit/test_specialty_map.py ..........................              [ 93%]
+tests/unit/test_templates.py .......                                     [100%]
+
+=============================== warnings summary ===============================
+../.venv/lib/python3.12/site-packages/fastapi/testclient.py:1
+  /workspace/scratch/e553f40bd53b/work/medlingo/.venv/lib/python3.12/site-packages/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+    from starlette.testclient import TestClient as TestClient  # noqa
+
+../.venv/lib/python3.12/site-packages/starlette/testclient.py:53
+  /workspace/scratch/e553f40bd53b/work/medlingo/.venv/lib/python3.12/site-packages/starlette/testclient.py:53: DeprecationWarning: The anyio.abc.BlockingPortal alias is deprecated, use anyio.from_thread.BlockingPortal instead.
+    _PortalFactoryType = Callable[[], AbstractContextManager[anyio.abc.BlockingPortal]]
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.14-final-0 _______________
+
+Name                                  Stmts   Miss  Cover   Missing
+-------------------------------------------------------------------
+app/engine/__init__.py                    0      0   100%
+app/engine/distractors.py                14      0   100%
+app/engine/generators/__init__.py         2      0   100%
+app/engine/generators/base.py            17      1    94%   11
+app/engine/generators/drag_order.py      10      0   100%
+app/engine/generators/drag_slot.py        6      0   100%
+app/engine/generators/encounter.py        7      0   100%
+app/engine/generators/fill_blank.py       6      0   100%
+app/engine/generators/listening.py        6      0   100%
+app/engine/generators/mcq.py             10      0   100%
+app/engine/hints.py                       4      0   100%
+app/engine/normalize.py                  20      0   100%
+app/engine/scheduler.py                 143      4    97%   86-87, 148-149
+app/engine/templates.py                  55      1    98%   10
+ingest/__init__.py                        0      0   100%
+ingest/build_bank.py                    127     21    83%   37, 51, 73, 93-95, 118-131, 133
+ingest/dedupe.py                         21      0   100%
+ingest/fetch.py                          38      0   100%
+ingest/gender.py                         20      0   100%
+ingest/report.py                         36      2    94%   38-39
+ingest/sources/__init__.py                0      0   100%
+ingest/sources/base.py                   24      1    96%   25
+ingest/sources/curated.py                12      0   100%
+ingest/sources/decs.py                   12      1    92%   10
+ingest/sources/medlineplus.py            11      0   100%
+ingest/sources/wikidata.py               14      0   100%
+ingest/sources/wiktionary.py              9      0   100%
+ingest/specialty_map.py                  33      0   100%
+-------------------------------------------------------------------
+TOTAL                                   657     31    95%
+Coverage JSON written to file ../data/coverage.json
+Required test coverage of 85% reached. Total coverage: 95.28%
+======================= 112 passed, 2 warnings in 29.46s =======================
+cd frontend && npm test -- --coverage
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> medlingo@0.1.0 test
+> vitest run --coverage
+
+
+ RUN  v1.6.1 /workspace/scratch/e553f40bd53b/work/medlingo/frontend
+      Coverage enabled with v8
+
+ ✓ tests/unit/timer.test.ts  (2 tests) 12ms
+ ✓ tests/unit/normalize.test.ts  (6 tests) 5ms
+ ✓ tests/unit/tts.test.ts  (3 tests) 4ms
+
+ Test Files  3 passed (3)
+      Tests  11 passed (11)
+   Start at  20:47:51
+   Duration  2.80s (transform 311ms, setup 1ms, collect 366ms, tests 21ms, environment 2.51s, prepare 607ms)
+
+ % Coverage report from v8
+-------------------|---------|----------|---------|---------|-------------------
+File               | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+-------------------|---------|----------|---------|---------|-------------------
+All files          |    9.52 |    22.47 |    8.23 |    9.52 |                   
+ frontend          |       0 |        0 |       0 |       0 |                   
+  ...ght.config.ts |       0 |        0 |       0 |       0 | 1-2               
+  ...css.config.js |       0 |        0 |       0 |       0 | 1                 
+  ...ind.config.ts |       0 |        0 |       0 |       0 | 1                 
+ frontend/src      |       0 |        0 |       0 |       0 |                   
+  App.tsx          |       0 |        0 |       0 |       0 | 1                 
+  main.tsx         |       0 |        0 |       0 |       0 | 1                 
+  router.tsx       |       0 |        0 |       0 |       0 | 1-3               
+ frontend/src/api  |       0 |      100 |       0 |       0 |                   
+  client.ts        |       0 |      100 |       0 |       0 | 1-4               
+ ...src/components |       0 |        0 |       0 |       0 |                   
+  AISettings.tsx   |       0 |        0 |       0 |       0 | 1-9               
+  Feedback.tsx     |       0 |        0 |       0 |       0 | 1-2               
+  ...eMaterial.tsx |       0 |        0 |       0 |       0 | 1-2               
+  GiveUpButton.tsx |       0 |        0 |       0 |       0 | 1                 
+  HintPanel.tsx    |       0 |        0 |       0 |       0 | 1                 
+  ...ilePicker.tsx |       0 |        0 |       0 |       0 | 1-10              
+  ...tionTimer.tsx |       0 |        0 |       0 |       0 | 1                 
+  SpeakButton.tsx  |       0 |        0 |       0 |       0 | 1                 
+  ...eSettings.tsx |       0 |        0 |       0 |       0 | 1-8               
+ ...ponents/layout |       0 |        0 |       0 |       0 |                   
+  AppShell.tsx     |       0 |        0 |       0 |       0 | 1                 
+  Sidebar.tsx      |       0 |        0 |       0 |       0 | 1-3               
+  ThemeToggle.tsx  |       0 |        0 |       0 |       0 | 1                 
+  TopBar.tsx       |       0 |        0 |       0 |       0 | 1-2               
+ .../components/ui |       0 |        0 |       0 |       0 |                   
+  Badge.tsx        |       0 |        0 |       0 |       0 | 1                 
+  Button.tsx       |       0 |        0 |       0 |       0 | 1                 
+  Card.tsx         |       0 |        0 |       0 |       0 | 1                 
+  Modal.tsx        |       0 |        0 |       0 |       0 | 1                 
+  ProgressRing.tsx |       0 |        0 |       0 |       0 | 1                 
+  Skeleton.tsx     |       0 |        0 |       0 |       0 | 1                 
+  Toast.tsx        |       0 |        0 |       0 |       0 | 1                 
+  Tooltip.tsx      |       0 |        0 |       0 |       0 | 1                 
+ ...hboard/widgets |       0 |        0 |       0 |       0 |                   
+  Accuracy.tsx     |       0 |        0 |       0 |       0 | 1                 
+  CorrectTable.tsx |       0 |        0 |       0 |       0 | 1                 
+  DailyHeatmap.tsx |       0 |        0 |       0 |       0 | 1                 
+  LeechTable.tsx   |       0 |        0 |       0 |       0 | 1                 
+  RuntimeCard.tsx  |       0 |        0 |       0 |       0 | 1                 
+  ...altyRadar.tsx |       0 |        0 |       0 |       0 | 1                 
+  StreakXp.tsx     |       0 |        0 |       0 |       0 | 1                 
+  ...stionHist.tsx |       0 |        0 |       0 |       0 | 1                 
+  TodayTime.tsx    |       0 |        0 |       0 |       0 | 1                 
+  TotalTime.tsx    |       0 |        0 |       0 |       0 | 1                 
+  ...BankTrend.tsx |       0 |        0 |       0 |       0 | 1                 
+  WrongTable.tsx   |       0 |        0 |       0 |       0 | 1                 
+ frontend/src/i18n |       0 |        0 |       0 |       0 |                   
+  index.ts         |       0 |        0 |       0 |       0 | 1                 
+ frontend/src/lib  |   33.33 |    76.92 |   23.07 |   33.33 |                   
+  format.ts        |       0 |        0 |       0 |       0 | 1                 
+  normalize.ts     |     100 |      100 |     100 |     100 |                   
+  recorder.ts      |       0 |        0 |       0 |       0 | 1-18              
+  time.ts          |       0 |        0 |       0 |       0 | 1                 
+  tts.ts           |   58.33 |      100 |   22.22 |   58.33 | 15-24             
+ ...tend/src/pages |       0 |        0 |       0 |       0 |                   
+  ...versation.tsx |       0 |        0 |       0 |       0 | 1-9               
+  About.tsx        |       0 |        0 |       0 |       0 | 1                 
+  Banks.tsx        |       0 |        0 |       0 |       0 | 1-2               
+  Dashboard.tsx    |       0 |        0 |       0 |       0 | 1-2               
+  ...terPlayer.tsx |       0 |        0 |       0 |       0 | 1-2               
+  Encounters.tsx   |       0 |        0 |       0 |       0 | 1-2               
+  Home.tsx         |       0 |        0 |       0 |       0 | 1-3               
+  Review.tsx       |       0 |        0 |       0 |       0 | 1-2               
+  ...onSummary.tsx |       0 |        0 |       0 |       0 | 1-2               
+  Settings.tsx     |       0 |        0 |       0 |       0 | 1-6               
+  StudySession.tsx |       0 |        0 |       0 |       0 | 1-2               
+  StudySetup.tsx   |       0 |        0 |       0 |       0 | 1-4               
+  TestRunner.tsx   |       0 |        0 |       0 |       0 | 1                 
+ ...ins/ai_patient |       0 |        0 |       0 |       0 |                   
+  ChatPanel.tsx    |       0 |        0 |       0 |       0 | 1                 
+ .../questionTypes |       0 |        0 |       0 |       0 |                   
+  DragOrder.tsx    |       0 |        0 |       0 |       0 | 1-3               
+  DragSlot.tsx     |       0 |        0 |       0 |       0 | 1-4               
+  Encounter.tsx    |       0 |        0 |       0 |       0 | 1-2               
+  FillBlank.tsx    |       0 |        0 |       0 |       0 | 1                 
+  Listening.tsx    |       0 |        0 |       0 |       0 | 1                 
+  Mcq.tsx          |       0 |        0 |       0 |       0 | 1-2               
+ ...d/src/registry |       0 |        0 |       0 |       0 |                   
+  ...ardWidgets.ts |       0 |        0 |       0 |       0 | 1-14              
+  plugins.ts       |       0 |        0 |       0 |       0 | 1-15              
+  questionTypes.ts |       0 |        0 |       0 |       0 | 1                 
+ ...tend/src/store |   71.42 |    76.92 |      50 |   71.42 |                   
+  profile.ts       |     100 |      100 |       0 |     100 |                   
+  session.ts       |       0 |        0 |       0 |       0 | 1                 
+  settings.ts      |       0 |        0 |       0 |       0 | 1                 
+  timer.ts         |     100 |       90 |     100 |     100 | 3                 
+-------------------|---------|----------|---------|---------|-------------------
+make[1]: Leaving directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+make[1]: Entering directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+cd backend && "/workspace/scratch/e553f40bd53b/work/medlingo/.venv/bin/python" -m ingest.build_bank --offline
+{
+  "terms": 7175,
+  "sentences": 14008,
+  "encounters": 12,
+  "gender_coverage": 0.8614367938605841,
+  "pass_": true,
+  "pass": true,
+  "checks": {
+    "total terms": true,
+    "sentences": true,
+    "12 encounters": true,
+    "noun gender >= 85%": true,
+    "unique pairs": true,
+    "general_medicine terms": true,
+    "general_medicine sentences": true,
+    "urology terms": true,
+    "urology sentences": true,
+    "hematology terms": true,
+    "hematology sentences": true,
+    "cardiology terms": true,
+    "cardiology sentences": true,
+    "pulmonology terms": true,
+    "pulmonology sentences": true,
+    "gastroenterology terms": true,
+    "gastroenterology sentences": true,
+    "neurology terms": true,
+    "neurology sentences": true,
+    "obgyn terms": true,
+    "obgyn sentences": true,
+    "pediatrics terms": true,
+    "pediatrics sentences": true,
+    "emergency terms": true,
+    "emergency sentences": true,
+    "orthopedics terms": true,
+    "orthopedics sentences": true,
+    "psychiatry terms": true,
+    "psychiatry sentences": true,
+    "anatomy terms": true,
+    "anatomy sentences": true,
+    "patient_phrases terms": true,
+    "patient_phrases sentences": true
+  }
+}
+make[1]: Leaving directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+{
+  "terms": 7175,
+  "sentences": 14008,
+  "encounters": 12,
+  "gender_coverage": 0.8614367938605841,
+  "pass_": true,
+  "pass": true,
+  "checks": {
+    "total terms": true,
+    "sentences": true,
+    "12 encounters": true,
+    "noun gender >= 85%": true,
+    "unique pairs": true,
+    "general_medicine terms": true,
+    "general_medicine sentences": true,
+    "urology terms": true,
+    "urology sentences": true,
+    "hematology terms": true,
+    "hematology sentences": true,
+    "cardiology terms": true,
+    "cardiology sentences": true,
+    "pulmonology terms": true,
+    "pulmonology sentences": true,
+    "gastroenterology terms": true,
+    "gastroenterology sentences": true,
+    "neurology terms": true,
+    "neurology sentences": true,
+    "obgyn terms": true,
+    "obgyn sentences": true,
+    "pediatrics terms": true,
+    "pediatrics sentences": true,
+    "emergency terms": true,
+    "emergency sentences": true,
+    "orthopedics terms": true,
+    "orthopedics sentences": true,
+    "psychiatry terms": true,
+    "psychiatry sentences": true,
+    "anatomy terms": true,
+    "anatomy sentences": true,
+    "patient_phrases terms": true,
+    "patient_phrases sentences": true
+  }
+}
+make[1]: Entering directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+cd frontend && npm run build
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> medlingo@0.1.0 build
+> tsc --noEmit && vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 2466 modules transformed.
+rendering chunks...
+[plugin:vite:reporter] [plugin vite:reporter] 
+(!) /workspace/scratch/e553f40bd53b/work/medlingo/frontend/src/pages/Home.tsx is dynamically imported by /workspace/scratch/e553f40bd53b/work/medlingo/frontend/src/router.tsx but also statically imported by /workspace/scratch/e553f40bd53b/work/medlingo/frontend/src/router.tsx, dynamic import will not move module into another chunk.
+
+computing gzip size...
+dist/index.html                                      0.48 kB │ gzip:   0.32 kB
+dist/assets/inter-latin-400-normal-BOOGhInR.woff2   23.69 kB
+dist/assets/inter-latin-600-normal-D273HNI0.woff2   24.30 kB
+dist/assets/inter-latin-700-normal-Sckx8rpT.woff2   24.35 kB
+dist/assets/inter-latin-500-normal-D2bGa7uu.woff2   24.37 kB
+dist/assets/inter-latin-400-normal-gitzw0hO.woff    31.20 kB
+dist/assets/inter-latin-500-normal-deR1Tlfd.woff    31.77 kB
+dist/assets/inter-latin-600-normal-B5cFAncS.woff    31.78 kB
+dist/assets/inter-latin-700-normal-B8MtJ_2k.woff    31.83 kB
+dist/assets/index-BtRTzuaL.css                      24.42 kB │ gzip:   6.12 kB
+dist/assets/TestRunner-CzLCVlfg.js                   0.42 kB │ gzip:   0.31 kB
+dist/assets/EncounterPlayer-CrswFYYT.js              0.75 kB │ gzip:   0.46 kB
+dist/assets/SpeakButton-_J6uFLJG.js                  0.76 kB │ gzip:   0.51 kB
+dist/assets/About-CIRuOTqi.js                        0.78 kB │ gzip:   0.42 kB
+dist/assets/ChatPanel-CZXmkKh1.js                    0.95 kB │ gzip:   0.53 kB
+dist/assets/Dashboard-CjVxumrD.js                    1.29 kB │ gzip:   0.70 kB
+dist/assets/SessionSummary-ByZMdypK.js               1.63 kB │ gzip:   0.83 kB
+dist/assets/Encounters-8ET3gxBE.js                   1.67 kB │ gzip:   0.85 kB
+dist/assets/Banks-1nRZBg3H.js                        1.87 kB │ gzip:   0.73 kB
+dist/assets/StudySetup-B8oBQSHn.js                   3.35 kB │ gzip:   1.45 kB
+dist/assets/Review-BL4n12O2.js                       4.49 kB │ gzip:   1.65 kB
+dist/assets/AIConversation-Lb47rqCl.js               6.04 kB │ gzip:   2.60 kB
+dist/assets/StudySession-D6-_Z0dw.js                 6.58 kB │ gzip:   2.60 kB
+dist/assets/Settings-CpmuudXY.js                     7.40 kB │ gzip:   2.78 kB
+dist/assets/questionTypes-Bg1FczVI.js               50.83 kB │ gzip:  16.82 kB
+dist/assets/index-CYSEP91D.js                      242.00 kB │ gzip:  80.09 kB
+dist/assets/dashboardWidgets-FzcnEiqo.js           409.77 kB │ gzip: 109.91 kB
+✓ built in 8.50s
+make[1]: Leaving directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+make[1]: Entering directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+cd frontend && npm run build
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> medlingo@0.1.0 build
+> tsc --noEmit && vite build
+
+vite v5.4.19 building for production...
+transforming...
+✓ 2466 modules transformed.
+rendering chunks...
+[plugin:vite:reporter] [plugin vite:reporter] 
+(!) /workspace/scratch/e553f40bd53b/work/medlingo/frontend/src/pages/Home.tsx is dynamically imported by /workspace/scratch/e553f40bd53b/work/medlingo/frontend/src/router.tsx but also statically imported by /workspace/scratch/e553f40bd53b/work/medlingo/frontend/src/router.tsx, dynamic import will not move module into another chunk.
+
+computing gzip size...
+dist/index.html                                      0.48 kB │ gzip:   0.32 kB
+dist/assets/inter-latin-400-normal-BOOGhInR.woff2   23.69 kB
+dist/assets/inter-latin-600-normal-D273HNI0.woff2   24.30 kB
+dist/assets/inter-latin-700-normal-Sckx8rpT.woff2   24.35 kB
+dist/assets/inter-latin-500-normal-D2bGa7uu.woff2   24.37 kB
+dist/assets/inter-latin-400-normal-gitzw0hO.woff    31.20 kB
+dist/assets/inter-latin-500-normal-deR1Tlfd.woff    31.77 kB
+dist/assets/inter-latin-600-normal-B5cFAncS.woff    31.78 kB
+dist/assets/inter-latin-700-normal-B8MtJ_2k.woff    31.83 kB
+dist/assets/index-BtRTzuaL.css                      24.42 kB │ gzip:   6.12 kB
+dist/assets/TestRunner-CzLCVlfg.js                   0.42 kB │ gzip:   0.31 kB
+dist/assets/EncounterPlayer-CrswFYYT.js              0.75 kB │ gzip:   0.46 kB
+dist/assets/SpeakButton-_J6uFLJG.js                  0.76 kB │ gzip:   0.51 kB
+dist/assets/About-CIRuOTqi.js                        0.78 kB │ gzip:   0.42 kB
+dist/assets/ChatPanel-CZXmkKh1.js                    0.95 kB │ gzip:   0.53 kB
+dist/assets/Dashboard-CjVxumrD.js                    1.29 kB │ gzip:   0.70 kB
+dist/assets/SessionSummary-ByZMdypK.js               1.63 kB │ gzip:   0.83 kB
+dist/assets/Encounters-8ET3gxBE.js                   1.67 kB │ gzip:   0.85 kB
+dist/assets/Banks-1nRZBg3H.js                        1.87 kB │ gzip:   0.73 kB
+dist/assets/StudySetup-B8oBQSHn.js                   3.35 kB │ gzip:   1.45 kB
+dist/assets/Review-BL4n12O2.js                       4.49 kB │ gzip:   1.65 kB
+dist/assets/AIConversation-Lb47rqCl.js               6.04 kB │ gzip:   2.60 kB
+dist/assets/StudySession-D6-_Z0dw.js                 6.58 kB │ gzip:   2.60 kB
+dist/assets/Settings-CpmuudXY.js                     7.40 kB │ gzip:   2.78 kB
+dist/assets/questionTypes-Bg1FczVI.js               50.83 kB │ gzip:  16.82 kB
+dist/assets/index-CYSEP91D.js                      242.00 kB │ gzip:  80.09 kB
+dist/assets/dashboardWidgets-FzcnEiqo.js           409.77 kB │ gzip: 109.91 kB
+✓ built in 8.11s
+"/workspace/scratch/e553f40bd53b/work/medlingo/.venv/bin/python" scripts/e2e.py
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+Running 6 tests using 1 worker
+
+(node:435) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:435) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓  1 tests/e2e/profiles_ai.spec.ts:2:1 › profile picker creates and isolates learners (2.1s)
+  ✓  2 tests/e2e/profiles_ai.spec.ts:11:1 › language voices and AI config persist separately (1.5s)
+  ✓  3 tests/e2e/profiles_ai.spec.ts:20:1 › clinical chat UI sends responses and ends with grading (1.4s)
+  ✓  4 tests/e2e/restart_persistence.spec.ts:3:1 › actual process restart preserves progress and increments restart count (3.1s)
+  ✓  5 tests/e2e/smoke.spec.ts:4:1 › study, hints, give up, dashboard, review, wrong-only test (7.6s)
+  ✓  6 tests/e2e/smoke.spec.ts:25:1 › settings persistence and scripted encounter (2.6s)
+
+  6 passed (20.7s)
+make[1]: Leaving directory '/workspace/scratch/e553f40bd53b/work/medlingo'
+{
+  "initial_js_gzip_bytes": 80012,
+  "seed_bytes": 9113600,
+  "budget": "PASS"
+}
+VERIFY OK

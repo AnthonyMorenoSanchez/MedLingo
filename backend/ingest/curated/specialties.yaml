@@ -1,0 +1,84 @@
+- color: '#0F9D8A'
+  icon: Stethoscope
+  id: general_medicine
+  name_en: General medicine
+  name_es: Medicina general
+  sort_order: 0
+- color: '#4E7AC7'
+  icon: Stethoscope
+  id: urology
+  name_en: Urology
+  name_es: Urología
+  sort_order: 1
+- color: '#B56783'
+  icon: Stethoscope
+  id: hematology
+  name_en: Hematology
+  name_es: Hematología
+  sort_order: 2
+- color: '#BF7042'
+  icon: Stethoscope
+  id: cardiology
+  name_en: Cardiology
+  name_es: Cardiología
+  sort_order: 3
+- color: '#0F9D8A'
+  icon: Stethoscope
+  id: pulmonology
+  name_en: Pulmonology
+  name_es: Neumología
+  sort_order: 4
+- color: '#4E7AC7'
+  icon: Stethoscope
+  id: gastroenterology
+  name_en: Gastroenterology
+  name_es: Gastroenterología
+  sort_order: 5
+- color: '#B56783'
+  icon: Stethoscope
+  id: neurology
+  name_en: Neurology
+  name_es: Neurología
+  sort_order: 6
+- color: '#BF7042'
+  icon: Stethoscope
+  id: obgyn
+  name_en: Obstetrics & gynecology
+  name_es: Ginecología y obstetricia
+  sort_order: 7
+- color: '#0F9D8A'
+  icon: Stethoscope
+  id: pediatrics
+  name_en: Pediatrics
+  name_es: Pediatría
+  sort_order: 8
+- color: '#4E7AC7'
+  icon: Stethoscope
+  id: emergency
+  name_en: Emergency medicine
+  name_es: Urgencias
+  sort_order: 9
+- color: '#B56783'
+  icon: Stethoscope
+  id: orthopedics
+  name_en: Orthopedics
+  name_es: Ortopedia
+  sort_order: 10
+- color: '#BF7042'
+  icon: Stethoscope
+  id: psychiatry
+  name_en: Psychiatry
+  name_es: Psiquiatría
+  sort_order: 11
+- color: '#0F9D8A'
+  icon: Stethoscope
+  id: anatomy
+  name_en: Anatomy
+  name_es: Anatomía
+  sort_order: 12
+- color: '#4E7AC7'
+  icon: Stethoscope
+  id: patient_phrases
+  name_en: Patient phrases
+  name_es: Frases para pacientes
+  sort_order: 13

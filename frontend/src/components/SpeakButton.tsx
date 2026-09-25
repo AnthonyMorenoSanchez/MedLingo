@@ -1,0 +1,1 @@
+import {Volume2} from 'lucide-react';import {speak} from '../lib/tts';import {t} from '../i18n';export default function SpeakButton({text,lang='es'}:{text:string;lang?:'es'|'en'}){return <button className="speak" aria-label={t('speaker')+': '+text} title={t('speaker')} onClick={()=>speak(text,lang)} type="button"><Volume2 size={18}/></button>}

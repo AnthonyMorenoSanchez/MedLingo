@@ -1,0 +1,133 @@
+difficulty: 2
+id: pulmonology_intake
+nodes:
+- id: n1
+  options:
+  - correct: true
+    en: How can I help you today?
+    es: ¿Cómo puedo ayudarle hoy?
+    feedback_en: This response acknowledges the patient and gathers relevant information.
+    id: a
+    next: n2
+  - correct: false
+    en: We do not have time for questions.
+    es: No tenemos tiempo para preguntas.
+    feedback_en: Invite the patient to share concerns.
+    id: b
+  - correct: false
+    en: You do not need to explain anything.
+    es: No necesita explicar nada.
+    feedback_en: Ask for clarification and listen to the patient.
+    id: c
+  patient_en: I have a question about my breathing.
+  patient_es: Tengo una pregunta sobre mi respiración.
+- id: n2
+  options:
+  - correct: true
+    en: Would you like a professional interpreter?
+    es: ¿Desea un intérprete profesional?
+    feedback_en: This response acknowledges the patient and gathers relevant information.
+    id: a
+    next: n3
+  - correct: false
+    en: We do not have time for questions.
+    es: No tenemos tiempo para preguntas.
+    feedback_en: Invite the patient to share concerns.
+    id: b
+  - correct: false
+    en: You do not need to explain anything.
+    es: No necesita explicar nada.
+    feedback_en: Ask for clarification and listen to the patient.
+    id: c
+  patient_en: I would prefer to speak in Spanish.
+  patient_es: Preferiría hablar en español.
+- id: n3
+  options:
+  - correct: true
+    en: Has it changed since it started?
+    es: ¿Ha cambiado desde que comenzó?
+    feedback_en: This response acknowledges the patient and gathers relevant information.
+    id: a
+    next: n4
+  - correct: false
+    en: We do not have time for questions.
+    es: No tenemos tiempo para preguntas.
+    feedback_en: Invite the patient to share concerns.
+    id: b
+  - correct: false
+    en: You do not need to explain anything.
+    es: No necesita explicar nada.
+    feedback_en: Ask for clarification and listen to the patient.
+    id: c
+  patient_en: This started three days ago.
+  patient_es: Esto comenzó hace tres días.
+- id: n4
+  options:
+  - correct: true
+    en: May we review the list together?
+    es: ¿Podemos revisar la lista juntos?
+    feedback_en: This response acknowledges the patient and gathers relevant information.
+    id: a
+    next: n5
+  - correct: false
+    en: We do not have time for questions.
+    es: No tenemos tiempo para preguntas.
+    feedback_en: Invite the patient to share concerns.
+    id: b
+  - correct: false
+    en: You do not need to explain anything.
+    es: No necesita explicar nada.
+    feedback_en: Ask for clarification and listen to the patient.
+    id: c
+  patient_en: I brought a list of my medications.
+  patient_es: Traje una lista de mis medicamentos.
+- id: n5
+  options:
+  - correct: true
+    en: Which medication, and what reaction did you have?
+    es: ¿A qué medicamento y qué reacción tuvo?
+    feedback_en: This response acknowledges the patient and gathers relevant information.
+    id: a
+    next: n6
+  - correct: false
+    en: We do not have time for questions.
+    es: No tenemos tiempo para preguntas.
+    feedback_en: Invite the patient to share concerns.
+    id: b
+  - correct: false
+    en: You do not need to explain anything.
+    es: No necesita explicar nada.
+    feedback_en: Ask for clarification and listen to the patient.
+    id: c
+  patient_en: I have a medication allergy.
+  patient_es: Tengo alergia a un medicamento.
+- id: n6
+  options:
+  - correct: true
+    en: What else would you like to ask?
+    es: ¿Qué más le gustaría preguntar?
+    feedback_en: This response acknowledges the patient and gathers relevant information.
+    id: a
+    next: end
+  - correct: false
+    en: We do not have time for questions.
+    es: No tenemos tiempo para preguntas.
+    feedback_en: Invite the patient to share concerns.
+    id: b
+  - correct: false
+    en: You do not need to explain anything.
+    es: No necesita explicar nada.
+    feedback_en: Ask for clarification and listen to the patient.
+    id: c
+  patient_en: I have more questions before we finish.
+  patient_es: Tengo más preguntas antes de terminar.
+- id: end
+  summary_en: Intake complete. You practiced clarification, language access, history
+    taking, and closing questions.
+  summary_es: Entrevista completada. Practicó la aclaración, el acceso lingüístico,
+    los antecedentes y las preguntas finales.
+  terminal: true
+specialty: pulmonology
+start: n1
+title_en: Pulmonology intake
+title_es: 'Entrevista: Neumología'

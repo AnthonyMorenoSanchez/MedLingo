@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my knee pain?
+  es: ¿Puede explicar mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can you explain the cast?
+  es: ¿Puede explicar el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can you explain physical therapy?
+  es: ¿Puede explicar la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can you explain my fracture?
+  es: ¿Puede explicar mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can you explain my range of motion?
+  es: ¿Puede explicar mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I have a question about my knee pain.
+  es: Tengo una pregunta sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I have a question about the cast.
+  es: Tengo una pregunta sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I have a question about physical therapy.
+  es: Tengo una pregunta sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I have a question about my fracture.
+  es: Tengo una pregunta sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I have a question about my range of motion.
+  es: Tengo una pregunta sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I need help understanding my knee pain.
+  es: Necesito ayuda para entender mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I need help understanding the cast.
+  es: Necesito ayuda para entender el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I need help understanding physical therapy.
+  es: Necesito ayuda para entender la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I need help understanding my fracture.
+  es: Necesito ayuda para entender mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I need help understanding my range of motion.
+  es: Necesito ayuda para entender mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please tell me more about my knee pain.
+  es: Por favor, dígame más sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please tell me more about the cast.
+  es: Por favor, dígame más sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please tell me more about physical therapy.
+  es: Por favor, dígame más sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please tell me more about my fracture.
+  es: Por favor, dígame más sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please tell me more about my range of motion.
+  es: Por favor, dígame más sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like written information about my knee pain.
+  es: Me gustaría recibir información escrita sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like written information about the cast.
+  es: Me gustaría recibir información escrita sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like written information about physical therapy.
+  es: Me gustaría recibir información escrita sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like written information about my fracture.
+  es: Me gustaría recibir información escrita sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like written information about my range of motion.
+  es: Me gustaría recibir información escrita sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could we discuss my knee pain with an interpreter?
+  es: ¿Podríamos hablar sobre mi dolor de rodilla con un intérprete?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could we discuss the cast with an interpreter?
+  es: ¿Podríamos hablar sobre el yeso con un intérprete?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could we discuss physical therapy with an interpreter?
+  es: ¿Podríamos hablar sobre la fisioterapia con un intérprete?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could we discuss my fracture with an interpreter?
+  es: ¿Podríamos hablar sobre mi fractura con un intérprete?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could we discuss my range of motion with an interpreter?
+  es: ¿Podríamos hablar sobre mi amplitud de movimiento con un intérprete?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you explain my knee pain again?
+  es: ¿Podría explicar mi dolor de rodilla otra vez?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you explain the cast again?
+  es: ¿Podría explicar el yeso otra vez?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you explain physical therapy again?
+  es: ¿Podría explicar la fisioterapia otra vez?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you explain my fracture again?
+  es: ¿Podría explicar mi fractura otra vez?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you explain my range of motion again?
+  es: ¿Podría explicar mi amplitud de movimiento otra vez?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I do not understand the information about my knee pain.
+  es: No entiendo la información sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I do not understand the information about the cast.
+  es: No entiendo la información sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I do not understand the information about physical therapy.
+  es: No entiendo la información sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I do not understand the information about my fracture.
+  es: No entiendo la información sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I do not understand the information about my range of motion.
+  es: No entiendo la información sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Who can answer my questions about my knee pain?
+  es: ¿Quién puede responder mis preguntas sobre mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Who can answer my questions about the cast?
+  es: ¿Quién puede responder mis preguntas sobre el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Who can answer my questions about physical therapy?
+  es: ¿Quién puede responder mis preguntas sobre la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Who can answer my questions about my fracture?
+  es: ¿Quién puede responder mis preguntas sobre mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Who can answer my questions about my range of motion?
+  es: ¿Quién puede responder mis preguntas sobre mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can we review the information about my knee pain?
+  es: ¿Podemos revisar la información sobre mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can we review the information about the cast?
+  es: ¿Podemos revisar la información sobre el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can we review the information about physical therapy?
+  es: ¿Podemos revisar la información sobre la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can we review the information about my fracture?
+  es: ¿Podemos revisar la información sobre mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can we review the information about my range of motion?
+  es: ¿Podemos revisar la información sobre mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please write down the information about my knee pain.
+  es: Por favor, anote la información sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please write down the information about the cast.
+  es: Por favor, anote la información sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please write down the information about physical therapy.
+  es: Por favor, anote la información sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please write down the information about my fracture.
+  es: Por favor, anote la información sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Please write down the information about my range of motion.
+  es: Por favor, anote la información sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like to talk to the doctor about my knee pain.
+  es: Me gustaría hablar con el médico sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like to talk to the doctor about the cast.
+  es: Me gustaría hablar con el médico sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like to talk to the doctor about physical therapy.
+  es: Me gustaría hablar con el médico sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like to talk to the doctor about my fracture.
+  es: Me gustaría hablar con el médico sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like to talk to the doctor about my range of motion.
+  es: Me gustaría hablar con el médico sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you speak more slowly when explaining my knee pain?
+  es: ¿Podría hablar más despacio al explicar mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you speak more slowly when explaining the cast?
+  es: ¿Podría hablar más despacio al explicar el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you speak more slowly when explaining physical therapy?
+  es: ¿Podría hablar más despacio al explicar la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you speak more slowly when explaining my fracture?
+  es: ¿Podría hablar más despacio al explicar mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you speak more slowly when explaining my range of motion?
+  es: ¿Podría hablar más despacio al explicar mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Thank you for explaining my knee pain.
+  es: Gracias por explicar mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Thank you for explaining the cast.
+  es: Gracias por explicar el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Thank you for explaining physical therapy.
+  es: Gracias por explicar la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Thank you for explaining my fracture.
+  es: Gracias por explicar mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Thank you for explaining my range of motion.
+  es: Gracias por explicar mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Is there a brochure about my knee pain?
+  es: ¿Hay un folleto sobre mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Is there a brochure about the cast?
+  es: ¿Hay un folleto sobre el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Is there a brochure about physical therapy?
+  es: ¿Hay un folleto sobre la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Is there a brochure about my fracture?
+  es: ¿Hay un folleto sobre mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Is there a brochure about my range of motion?
+  es: ¿Hay un folleto sobre mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can my family ask questions about my knee pain?
+  es: ¿Puede mi familia hacer preguntas sobre mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can my family ask questions about the cast?
+  es: ¿Puede mi familia hacer preguntas sobre el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can my family ask questions about physical therapy?
+  es: ¿Puede mi familia hacer preguntas sobre la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can my family ask questions about my fracture?
+  es: ¿Puede mi familia hacer preguntas sobre mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Can my family ask questions about my range of motion?
+  es: ¿Puede mi familia hacer preguntas sobre mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I want to make sure I understand my knee pain.
+  es: Quiero asegurarme de entender mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I want to make sure I understand the cast.
+  es: Quiero asegurarme de entender el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I want to make sure I understand physical therapy.
+  es: Quiero asegurarme de entender la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I want to make sure I understand my fracture.
+  es: Quiero asegurarme de entender mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I want to make sure I understand my range of motion.
+  es: Quiero asegurarme de entender mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you use simpler words to explain my knee pain?
+  es: ¿Podría usar palabras más sencillas para explicar mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you use simpler words to explain the cast?
+  es: ¿Podría usar palabras más sencillas para explicar el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you use simpler words to explain physical therapy?
+  es: ¿Podría usar palabras más sencillas para explicar la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you use simpler words to explain my fracture?
+  es: ¿Podría usar palabras más sencillas para explicar mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Could you use simpler words to explain my range of motion?
+  es: ¿Podría usar palabras más sencillas para explicar mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Where can I find information in Spanish about my knee pain?
+  es: ¿Dónde puedo encontrar información en español sobre mi dolor de rodilla?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Where can I find information in Spanish about the cast?
+  es: ¿Dónde puedo encontrar información en español sobre el yeso?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Where can I find information in Spanish about physical therapy?
+  es: ¿Dónde puedo encontrar información en español sobre la fisioterapia?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Where can I find information in Spanish about my fracture?
+  es: ¿Dónde puedo encontrar información en español sobre mi fractura?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: Where can I find information in Spanish about my range of motion?
+  es: ¿Dónde puedo encontrar información en español sobre mi amplitud de movimiento?
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: We have not yet discussed my knee pain.
+  es: Todavía no hemos hablado sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: We have not yet discussed the cast.
+  es: Todavía no hemos hablado sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: We have not yet discussed physical therapy.
+  es: Todavía no hemos hablado sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: We have not yet discussed my fracture.
+  es: Todavía no hemos hablado sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: We have not yet discussed my range of motion.
+  es: Todavía no hemos hablado sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I wrote down my questions about my knee pain.
+  es: Anoté mis preguntas sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I wrote down my questions about the cast.
+  es: Anoté mis preguntas sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I wrote down my questions about physical therapy.
+  es: Anoté mis preguntas sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I wrote down my questions about my fracture.
+  es: Anoté mis preguntas sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I wrote down my questions about my range of motion.
+  es: Anoté mis preguntas sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like a copy of the information about my knee pain.
+  es: Me gustaría recibir una copia de la información sobre mi dolor de rodilla.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like a copy of the information about the cast.
+  es: Me gustaría recibir una copia de la información sobre el yeso.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like a copy of the information about physical therapy.
+  es: Me gustaría recibir una copia de la información sobre la fisioterapia.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like a copy of the information about my fracture.
+  es: Me gustaría recibir una copia de la información sobre mi fractura.
+  notes: Authored communication practice.
+  specialty: orthopedics
+- difficulty: 2
+  en: I would like a copy of the information about my range of motion.
+  es: Me gustaría recibir una copia de la información sobre mi amplitud de movimiento.
+  notes: Authored communication practice.
+  specialty: orthopedics

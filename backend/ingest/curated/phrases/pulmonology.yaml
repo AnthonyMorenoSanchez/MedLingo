@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my breathing?
+  es: ¿Puede explicar mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can you explain my inhaler?
+  es: ¿Puede explicar mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can you explain the chest X-ray?
+  es: ¿Puede explicar la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can you explain my oxygen level?
+  es: ¿Puede explicar mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can you explain my cough?
+  es: ¿Puede explicar mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I have a question about my breathing.
+  es: Tengo una pregunta sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I have a question about my inhaler.
+  es: Tengo una pregunta sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I have a question about the chest X-ray.
+  es: Tengo una pregunta sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I have a question about my oxygen level.
+  es: Tengo una pregunta sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I have a question about my cough.
+  es: Tengo una pregunta sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I need help understanding my breathing.
+  es: Necesito ayuda para entender mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I need help understanding my inhaler.
+  es: Necesito ayuda para entender mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I need help understanding the chest X-ray.
+  es: Necesito ayuda para entender la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I need help understanding my oxygen level.
+  es: Necesito ayuda para entender mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I need help understanding my cough.
+  es: Necesito ayuda para entender mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please tell me more about my breathing.
+  es: Por favor, dígame más sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please tell me more about my inhaler.
+  es: Por favor, dígame más sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please tell me more about the chest X-ray.
+  es: Por favor, dígame más sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please tell me more about my oxygen level.
+  es: Por favor, dígame más sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please tell me more about my cough.
+  es: Por favor, dígame más sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like written information about my breathing.
+  es: Me gustaría recibir información escrita sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like written information about my inhaler.
+  es: Me gustaría recibir información escrita sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like written information about the chest X-ray.
+  es: Me gustaría recibir información escrita sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like written information about my oxygen level.
+  es: Me gustaría recibir información escrita sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like written information about my cough.
+  es: Me gustaría recibir información escrita sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could we discuss my breathing with an interpreter?
+  es: ¿Podríamos hablar sobre mi respiración con un intérprete?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could we discuss my inhaler with an interpreter?
+  es: ¿Podríamos hablar sobre mi inhalador con un intérprete?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could we discuss the chest X-ray with an interpreter?
+  es: ¿Podríamos hablar sobre la radiografía de tórax con un intérprete?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could we discuss my oxygen level with an interpreter?
+  es: ¿Podríamos hablar sobre mi nivel de oxígeno con un intérprete?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could we discuss my cough with an interpreter?
+  es: ¿Podríamos hablar sobre mi tos con un intérprete?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you explain my breathing again?
+  es: ¿Podría explicar mi respiración otra vez?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you explain my inhaler again?
+  es: ¿Podría explicar mi inhalador otra vez?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you explain the chest X-ray again?
+  es: ¿Podría explicar la radiografía de tórax otra vez?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you explain my oxygen level again?
+  es: ¿Podría explicar mi nivel de oxígeno otra vez?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you explain my cough again?
+  es: ¿Podría explicar mi tos otra vez?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I do not understand the information about my breathing.
+  es: No entiendo la información sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I do not understand the information about my inhaler.
+  es: No entiendo la información sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I do not understand the information about the chest X-ray.
+  es: No entiendo la información sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I do not understand the information about my oxygen level.
+  es: No entiendo la información sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I do not understand the information about my cough.
+  es: No entiendo la información sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Who can answer my questions about my breathing?
+  es: ¿Quién puede responder mis preguntas sobre mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Who can answer my questions about my inhaler?
+  es: ¿Quién puede responder mis preguntas sobre mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Who can answer my questions about the chest X-ray?
+  es: ¿Quién puede responder mis preguntas sobre la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Who can answer my questions about my oxygen level?
+  es: ¿Quién puede responder mis preguntas sobre mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Who can answer my questions about my cough?
+  es: ¿Quién puede responder mis preguntas sobre mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can we review the information about my breathing?
+  es: ¿Podemos revisar la información sobre mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can we review the information about my inhaler?
+  es: ¿Podemos revisar la información sobre mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can we review the information about the chest X-ray?
+  es: ¿Podemos revisar la información sobre la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can we review the information about my oxygen level?
+  es: ¿Podemos revisar la información sobre mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can we review the information about my cough?
+  es: ¿Podemos revisar la información sobre mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please write down the information about my breathing.
+  es: Por favor, anote la información sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please write down the information about my inhaler.
+  es: Por favor, anote la información sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please write down the information about the chest X-ray.
+  es: Por favor, anote la información sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please write down the information about my oxygen level.
+  es: Por favor, anote la información sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Please write down the information about my cough.
+  es: Por favor, anote la información sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like to talk to the doctor about my breathing.
+  es: Me gustaría hablar con el médico sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like to talk to the doctor about my inhaler.
+  es: Me gustaría hablar con el médico sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like to talk to the doctor about the chest X-ray.
+  es: Me gustaría hablar con el médico sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like to talk to the doctor about my oxygen level.
+  es: Me gustaría hablar con el médico sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like to talk to the doctor about my cough.
+  es: Me gustaría hablar con el médico sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my breathing?
+  es: ¿Podría hablar más despacio al explicar mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my inhaler?
+  es: ¿Podría hablar más despacio al explicar mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you speak more slowly when explaining the chest X-ray?
+  es: ¿Podría hablar más despacio al explicar la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my oxygen level?
+  es: ¿Podría hablar más despacio al explicar mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my cough?
+  es: ¿Podría hablar más despacio al explicar mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Thank you for explaining my breathing.
+  es: Gracias por explicar mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Thank you for explaining my inhaler.
+  es: Gracias por explicar mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Thank you for explaining the chest X-ray.
+  es: Gracias por explicar la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Thank you for explaining my oxygen level.
+  es: Gracias por explicar mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Thank you for explaining my cough.
+  es: Gracias por explicar mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Is there a brochure about my breathing?
+  es: ¿Hay un folleto sobre mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Is there a brochure about my inhaler?
+  es: ¿Hay un folleto sobre mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Is there a brochure about the chest X-ray?
+  es: ¿Hay un folleto sobre la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Is there a brochure about my oxygen level?
+  es: ¿Hay un folleto sobre mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Is there a brochure about my cough?
+  es: ¿Hay un folleto sobre mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can my family ask questions about my breathing?
+  es: ¿Puede mi familia hacer preguntas sobre mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can my family ask questions about my inhaler?
+  es: ¿Puede mi familia hacer preguntas sobre mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can my family ask questions about the chest X-ray?
+  es: ¿Puede mi familia hacer preguntas sobre la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can my family ask questions about my oxygen level?
+  es: ¿Puede mi familia hacer preguntas sobre mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Can my family ask questions about my cough?
+  es: ¿Puede mi familia hacer preguntas sobre mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I want to make sure I understand my breathing.
+  es: Quiero asegurarme de entender mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I want to make sure I understand my inhaler.
+  es: Quiero asegurarme de entender mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I want to make sure I understand the chest X-ray.
+  es: Quiero asegurarme de entender la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I want to make sure I understand my oxygen level.
+  es: Quiero asegurarme de entender mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I want to make sure I understand my cough.
+  es: Quiero asegurarme de entender mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you use simpler words to explain my breathing?
+  es: ¿Podría usar palabras más sencillas para explicar mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you use simpler words to explain my inhaler?
+  es: ¿Podría usar palabras más sencillas para explicar mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you use simpler words to explain the chest X-ray?
+  es: ¿Podría usar palabras más sencillas para explicar la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you use simpler words to explain my oxygen level?
+  es: ¿Podría usar palabras más sencillas para explicar mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Could you use simpler words to explain my cough?
+  es: ¿Podría usar palabras más sencillas para explicar mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Where can I find information in Spanish about my breathing?
+  es: ¿Dónde puedo encontrar información en español sobre mi respiración?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Where can I find information in Spanish about my inhaler?
+  es: ¿Dónde puedo encontrar información en español sobre mi inhalador?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Where can I find information in Spanish about the chest X-ray?
+  es: ¿Dónde puedo encontrar información en español sobre la radiografía de tórax?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Where can I find information in Spanish about my oxygen level?
+  es: ¿Dónde puedo encontrar información en español sobre mi nivel de oxígeno?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: Where can I find information in Spanish about my cough?
+  es: ¿Dónde puedo encontrar información en español sobre mi tos?
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: We have not yet discussed my breathing.
+  es: Todavía no hemos hablado sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: We have not yet discussed my inhaler.
+  es: Todavía no hemos hablado sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: We have not yet discussed the chest X-ray.
+  es: Todavía no hemos hablado sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: We have not yet discussed my oxygen level.
+  es: Todavía no hemos hablado sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: We have not yet discussed my cough.
+  es: Todavía no hemos hablado sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I wrote down my questions about my breathing.
+  es: Anoté mis preguntas sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I wrote down my questions about my inhaler.
+  es: Anoté mis preguntas sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I wrote down my questions about the chest X-ray.
+  es: Anoté mis preguntas sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I wrote down my questions about my oxygen level.
+  es: Anoté mis preguntas sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I wrote down my questions about my cough.
+  es: Anoté mis preguntas sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like a copy of the information about my breathing.
+  es: Me gustaría recibir una copia de la información sobre mi respiración.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like a copy of the information about my inhaler.
+  es: Me gustaría recibir una copia de la información sobre mi inhalador.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like a copy of the information about the chest X-ray.
+  es: Me gustaría recibir una copia de la información sobre la radiografía de tórax.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like a copy of the information about my oxygen level.
+  es: Me gustaría recibir una copia de la información sobre mi nivel de oxígeno.
+  notes: Authored communication practice.
+  specialty: pulmonology
+- difficulty: 2
+  en: I would like a copy of the information about my cough.
+  es: Me gustaría recibir una copia de la información sobre mi tos.
+  notes: Authored communication practice.
+  specialty: pulmonology

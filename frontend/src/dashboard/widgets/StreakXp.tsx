@@ -1,0 +1,1 @@
+import type {WidgetProps} from '../types';import {t} from '../../i18n';export default function StreakXp({data}:WidgetProps){return <div className="metric-widget"><span className="eyebrow">{t('xp')}</span><strong>{data.overview.xp+' XP · '+data.overview.streak+' days'}</strong></div>}

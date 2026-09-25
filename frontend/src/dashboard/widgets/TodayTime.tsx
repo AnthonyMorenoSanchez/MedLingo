@@ -1,0 +1,1 @@
+import type {WidgetProps} from '../types';import {t} from '../../i18n';import {duration} from '../../lib/time';export default function TodayTime({data}:WidgetProps){return <div className="metric-widget"><span className="eyebrow">{t('today')}</span><strong>{duration(data.overview.today_ms||0)}</strong></div>}

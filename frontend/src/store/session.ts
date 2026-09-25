@@ -1,0 +1,1 @@
+import {create} from 'zustand';import type {Batch} from '../api/types';export const useSession=create<{batch:Batch|null;setBatch:(batch:Batch)=>void}>(set=>({batch:null,setBatch:batch=>set({batch})}));

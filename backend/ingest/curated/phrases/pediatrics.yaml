@@ -1,0 +1,552 @@
+- difficulty: 2
+  en: Can you explain my child’s growth?
+  es: ¿Puede explicar el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can you explain the vaccination schedule?
+  es: ¿Puede explicar el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can you explain my baby’s feeding?
+  es: ¿Puede explicar la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can you explain the well-child visit?
+  es: ¿Puede explicar la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can you explain my child’s development?
+  es: ¿Puede explicar el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I have a question about my child’s growth.
+  es: Tengo una pregunta sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I have a question about the vaccination schedule.
+  es: Tengo una pregunta sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I have a question about my baby’s feeding.
+  es: Tengo una pregunta sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I have a question about the well-child visit.
+  es: Tengo una pregunta sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I have a question about my child’s development.
+  es: Tengo una pregunta sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I need help understanding my child’s growth.
+  es: Necesito ayuda para entender el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I need help understanding the vaccination schedule.
+  es: Necesito ayuda para entender el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I need help understanding my baby’s feeding.
+  es: Necesito ayuda para entender la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I need help understanding the well-child visit.
+  es: Necesito ayuda para entender la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I need help understanding my child’s development.
+  es: Necesito ayuda para entender el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please tell me more about my child’s growth.
+  es: Por favor, dígame más sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please tell me more about the vaccination schedule.
+  es: Por favor, dígame más sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please tell me more about my baby’s feeding.
+  es: Por favor, dígame más sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please tell me more about the well-child visit.
+  es: Por favor, dígame más sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please tell me more about my child’s development.
+  es: Por favor, dígame más sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like written information about my child’s growth.
+  es: Me gustaría recibir información escrita sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like written information about the vaccination schedule.
+  es: Me gustaría recibir información escrita sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like written information about my baby’s feeding.
+  es: Me gustaría recibir información escrita sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like written information about the well-child visit.
+  es: Me gustaría recibir información escrita sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like written information about my child’s development.
+  es: Me gustaría recibir información escrita sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could we discuss my child’s growth with an interpreter?
+  es: ¿Podríamos hablar sobre el crecimiento de mi hijo con un intérprete?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could we discuss the vaccination schedule with an interpreter?
+  es: ¿Podríamos hablar sobre el calendario de vacunación con un intérprete?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could we discuss my baby’s feeding with an interpreter?
+  es: ¿Podríamos hablar sobre la alimentación de mi bebé con un intérprete?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could we discuss the well-child visit with an interpreter?
+  es: ¿Podríamos hablar sobre la consulta de control infantil con un intérprete?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could we discuss my child’s development with an interpreter?
+  es: ¿Podríamos hablar sobre el desarrollo de mi hijo con un intérprete?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you explain my child’s growth again?
+  es: ¿Podría explicar el crecimiento de mi hijo otra vez?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you explain the vaccination schedule again?
+  es: ¿Podría explicar el calendario de vacunación otra vez?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you explain my baby’s feeding again?
+  es: ¿Podría explicar la alimentación de mi bebé otra vez?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you explain the well-child visit again?
+  es: ¿Podría explicar la consulta de control infantil otra vez?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you explain my child’s development again?
+  es: ¿Podría explicar el desarrollo de mi hijo otra vez?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I do not understand the information about my child’s growth.
+  es: No entiendo la información sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I do not understand the information about the vaccination schedule.
+  es: No entiendo la información sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I do not understand the information about my baby’s feeding.
+  es: No entiendo la información sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I do not understand the information about the well-child visit.
+  es: No entiendo la información sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I do not understand the information about my child’s development.
+  es: No entiendo la información sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Who can answer my questions about my child’s growth?
+  es: ¿Quién puede responder mis preguntas sobre el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Who can answer my questions about the vaccination schedule?
+  es: ¿Quién puede responder mis preguntas sobre el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Who can answer my questions about my baby’s feeding?
+  es: ¿Quién puede responder mis preguntas sobre la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Who can answer my questions about the well-child visit?
+  es: ¿Quién puede responder mis preguntas sobre la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Who can answer my questions about my child’s development?
+  es: ¿Quién puede responder mis preguntas sobre el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can we review the information about my child’s growth?
+  es: ¿Podemos revisar la información sobre el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can we review the information about the vaccination schedule?
+  es: ¿Podemos revisar la información sobre el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can we review the information about my baby’s feeding?
+  es: ¿Podemos revisar la información sobre la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can we review the information about the well-child visit?
+  es: ¿Podemos revisar la información sobre la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can we review the information about my child’s development?
+  es: ¿Podemos revisar la información sobre el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please write down the information about my child’s growth.
+  es: Por favor, anote la información sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please write down the information about the vaccination schedule.
+  es: Por favor, anote la información sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please write down the information about my baby’s feeding.
+  es: Por favor, anote la información sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please write down the information about the well-child visit.
+  es: Por favor, anote la información sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Please write down the information about my child’s development.
+  es: Por favor, anote la información sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like to talk to the doctor about my child’s growth.
+  es: Me gustaría hablar con el médico sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like to talk to the doctor about the vaccination schedule.
+  es: Me gustaría hablar con el médico sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like to talk to the doctor about my baby’s feeding.
+  es: Me gustaría hablar con el médico sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like to talk to the doctor about the well-child visit.
+  es: Me gustaría hablar con el médico sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like to talk to the doctor about my child’s development.
+  es: Me gustaría hablar con el médico sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you speak more slowly when explaining my child’s growth?
+  es: ¿Podría hablar más despacio al explicar el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you speak more slowly when explaining the vaccination schedule?
+  es: ¿Podría hablar más despacio al explicar el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you speak more slowly when explaining my baby’s feeding?
+  es: ¿Podría hablar más despacio al explicar la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you speak more slowly when explaining the well-child visit?
+  es: ¿Podría hablar más despacio al explicar la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you speak more slowly when explaining my child’s development?
+  es: ¿Podría hablar más despacio al explicar el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Thank you for explaining my child’s growth.
+  es: Gracias por explicar el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Thank you for explaining the vaccination schedule.
+  es: Gracias por explicar el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Thank you for explaining my baby’s feeding.
+  es: Gracias por explicar la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Thank you for explaining the well-child visit.
+  es: Gracias por explicar la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Thank you for explaining my child’s development.
+  es: Gracias por explicar el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Is there a brochure about my child’s growth?
+  es: ¿Hay un folleto sobre el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Is there a brochure about the vaccination schedule?
+  es: ¿Hay un folleto sobre el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Is there a brochure about my baby’s feeding?
+  es: ¿Hay un folleto sobre la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Is there a brochure about the well-child visit?
+  es: ¿Hay un folleto sobre la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Is there a brochure about my child’s development?
+  es: ¿Hay un folleto sobre el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can my family ask questions about my child’s growth?
+  es: ¿Puede mi familia hacer preguntas sobre el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can my family ask questions about the vaccination schedule?
+  es: ¿Puede mi familia hacer preguntas sobre el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can my family ask questions about my baby’s feeding?
+  es: ¿Puede mi familia hacer preguntas sobre la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can my family ask questions about the well-child visit?
+  es: ¿Puede mi familia hacer preguntas sobre la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Can my family ask questions about my child’s development?
+  es: ¿Puede mi familia hacer preguntas sobre el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I want to make sure I understand my child’s growth.
+  es: Quiero asegurarme de entender el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I want to make sure I understand the vaccination schedule.
+  es: Quiero asegurarme de entender el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I want to make sure I understand my baby’s feeding.
+  es: Quiero asegurarme de entender la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I want to make sure I understand the well-child visit.
+  es: Quiero asegurarme de entender la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I want to make sure I understand my child’s development.
+  es: Quiero asegurarme de entender el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you use simpler words to explain my child’s growth?
+  es: ¿Podría usar palabras más sencillas para explicar el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you use simpler words to explain the vaccination schedule?
+  es: ¿Podría usar palabras más sencillas para explicar el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you use simpler words to explain my baby’s feeding?
+  es: ¿Podría usar palabras más sencillas para explicar la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you use simpler words to explain the well-child visit?
+  es: ¿Podría usar palabras más sencillas para explicar la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Could you use simpler words to explain my child’s development?
+  es: ¿Podría usar palabras más sencillas para explicar el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Where can I find information in Spanish about my child’s growth?
+  es: ¿Dónde puedo encontrar información en español sobre el crecimiento de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Where can I find information in Spanish about the vaccination schedule?
+  es: ¿Dónde puedo encontrar información en español sobre el calendario de vacunación?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Where can I find information in Spanish about my baby’s feeding?
+  es: ¿Dónde puedo encontrar información en español sobre la alimentación de mi bebé?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Where can I find information in Spanish about the well-child visit?
+  es: ¿Dónde puedo encontrar información en español sobre la consulta de control infantil?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: Where can I find information in Spanish about my child’s development?
+  es: ¿Dónde puedo encontrar información en español sobre el desarrollo de mi hijo?
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: We have not yet discussed my child’s growth.
+  es: Todavía no hemos hablado sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: We have not yet discussed the vaccination schedule.
+  es: Todavía no hemos hablado sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: We have not yet discussed my baby’s feeding.
+  es: Todavía no hemos hablado sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: We have not yet discussed the well-child visit.
+  es: Todavía no hemos hablado sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: We have not yet discussed my child’s development.
+  es: Todavía no hemos hablado sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I wrote down my questions about my child’s growth.
+  es: Anoté mis preguntas sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I wrote down my questions about the vaccination schedule.
+  es: Anoté mis preguntas sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I wrote down my questions about my baby’s feeding.
+  es: Anoté mis preguntas sobre la alimentación de mi bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I wrote down my questions about the well-child visit.
+  es: Anoté mis preguntas sobre la consulta de control infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I wrote down my questions about my child’s development.
+  es: Anoté mis preguntas sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like a copy of the information about my child’s growth.
+  es: Me gustaría recibir una copia de la información sobre el crecimiento de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like a copy of the information about the vaccination schedule.
+  es: Me gustaría recibir una copia de la información sobre el calendario de vacunación.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like a copy of the information about my baby’s feeding.
+  es: Me gustaría recibir una copia de la información sobre la alimentación de mi
+    bebé.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like a copy of the information about the well-child visit.
+  es: Me gustaría recibir una copia de la información sobre la consulta de control
+    infantil.
+  notes: Authored communication practice.
+  specialty: pediatrics
+- difficulty: 2
+  en: I would like a copy of the information about my child’s development.
+  es: Me gustaría recibir una copia de la información sobre el desarrollo de mi hijo.
+  notes: Authored communication practice.
+  specialty: pediatrics

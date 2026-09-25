@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my blood test?
+  es: ¿Puede explicar mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can you explain my anemia?
+  es: ¿Puede explicar mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can you explain the transfusion?
+  es: ¿Puede explicar la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can you explain my platelet count?
+  es: ¿Puede explicar mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can you explain my iron level?
+  es: ¿Puede explicar mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I have a question about my blood test.
+  es: Tengo una pregunta sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I have a question about my anemia.
+  es: Tengo una pregunta sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I have a question about the transfusion.
+  es: Tengo una pregunta sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I have a question about my platelet count.
+  es: Tengo una pregunta sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I have a question about my iron level.
+  es: Tengo una pregunta sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I need help understanding my blood test.
+  es: Necesito ayuda para entender mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I need help understanding my anemia.
+  es: Necesito ayuda para entender mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I need help understanding the transfusion.
+  es: Necesito ayuda para entender la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I need help understanding my platelet count.
+  es: Necesito ayuda para entender mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I need help understanding my iron level.
+  es: Necesito ayuda para entender mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please tell me more about my blood test.
+  es: Por favor, dígame más sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please tell me more about my anemia.
+  es: Por favor, dígame más sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please tell me more about the transfusion.
+  es: Por favor, dígame más sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please tell me more about my platelet count.
+  es: Por favor, dígame más sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please tell me more about my iron level.
+  es: Por favor, dígame más sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like written information about my blood test.
+  es: Me gustaría recibir información escrita sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like written information about my anemia.
+  es: Me gustaría recibir información escrita sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like written information about the transfusion.
+  es: Me gustaría recibir información escrita sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like written information about my platelet count.
+  es: Me gustaría recibir información escrita sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like written information about my iron level.
+  es: Me gustaría recibir información escrita sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could we discuss my blood test with an interpreter?
+  es: ¿Podríamos hablar sobre mi análisis de sangre con un intérprete?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could we discuss my anemia with an interpreter?
+  es: ¿Podríamos hablar sobre mi anemia con un intérprete?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could we discuss the transfusion with an interpreter?
+  es: ¿Podríamos hablar sobre la transfusión con un intérprete?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could we discuss my platelet count with an interpreter?
+  es: ¿Podríamos hablar sobre mi recuento de plaquetas con un intérprete?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could we discuss my iron level with an interpreter?
+  es: ¿Podríamos hablar sobre mi nivel de hierro con un intérprete?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you explain my blood test again?
+  es: ¿Podría explicar mi análisis de sangre otra vez?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you explain my anemia again?
+  es: ¿Podría explicar mi anemia otra vez?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you explain the transfusion again?
+  es: ¿Podría explicar la transfusión otra vez?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you explain my platelet count again?
+  es: ¿Podría explicar mi recuento de plaquetas otra vez?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you explain my iron level again?
+  es: ¿Podría explicar mi nivel de hierro otra vez?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I do not understand the information about my blood test.
+  es: No entiendo la información sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I do not understand the information about my anemia.
+  es: No entiendo la información sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I do not understand the information about the transfusion.
+  es: No entiendo la información sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I do not understand the information about my platelet count.
+  es: No entiendo la información sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I do not understand the information about my iron level.
+  es: No entiendo la información sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Who can answer my questions about my blood test?
+  es: ¿Quién puede responder mis preguntas sobre mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Who can answer my questions about my anemia?
+  es: ¿Quién puede responder mis preguntas sobre mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Who can answer my questions about the transfusion?
+  es: ¿Quién puede responder mis preguntas sobre la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Who can answer my questions about my platelet count?
+  es: ¿Quién puede responder mis preguntas sobre mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Who can answer my questions about my iron level?
+  es: ¿Quién puede responder mis preguntas sobre mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can we review the information about my blood test?
+  es: ¿Podemos revisar la información sobre mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can we review the information about my anemia?
+  es: ¿Podemos revisar la información sobre mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can we review the information about the transfusion?
+  es: ¿Podemos revisar la información sobre la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can we review the information about my platelet count?
+  es: ¿Podemos revisar la información sobre mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can we review the information about my iron level?
+  es: ¿Podemos revisar la información sobre mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please write down the information about my blood test.
+  es: Por favor, anote la información sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please write down the information about my anemia.
+  es: Por favor, anote la información sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please write down the information about the transfusion.
+  es: Por favor, anote la información sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please write down the information about my platelet count.
+  es: Por favor, anote la información sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Please write down the information about my iron level.
+  es: Por favor, anote la información sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like to talk to the doctor about my blood test.
+  es: Me gustaría hablar con el médico sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like to talk to the doctor about my anemia.
+  es: Me gustaría hablar con el médico sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like to talk to the doctor about the transfusion.
+  es: Me gustaría hablar con el médico sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like to talk to the doctor about my platelet count.
+  es: Me gustaría hablar con el médico sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like to talk to the doctor about my iron level.
+  es: Me gustaría hablar con el médico sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my blood test?
+  es: ¿Podría hablar más despacio al explicar mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my anemia?
+  es: ¿Podría hablar más despacio al explicar mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you speak more slowly when explaining the transfusion?
+  es: ¿Podría hablar más despacio al explicar la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my platelet count?
+  es: ¿Podría hablar más despacio al explicar mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my iron level?
+  es: ¿Podría hablar más despacio al explicar mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Thank you for explaining my blood test.
+  es: Gracias por explicar mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Thank you for explaining my anemia.
+  es: Gracias por explicar mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Thank you for explaining the transfusion.
+  es: Gracias por explicar la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Thank you for explaining my platelet count.
+  es: Gracias por explicar mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Thank you for explaining my iron level.
+  es: Gracias por explicar mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Is there a brochure about my blood test?
+  es: ¿Hay un folleto sobre mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Is there a brochure about my anemia?
+  es: ¿Hay un folleto sobre mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Is there a brochure about the transfusion?
+  es: ¿Hay un folleto sobre la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Is there a brochure about my platelet count?
+  es: ¿Hay un folleto sobre mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Is there a brochure about my iron level?
+  es: ¿Hay un folleto sobre mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can my family ask questions about my blood test?
+  es: ¿Puede mi familia hacer preguntas sobre mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can my family ask questions about my anemia?
+  es: ¿Puede mi familia hacer preguntas sobre mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can my family ask questions about the transfusion?
+  es: ¿Puede mi familia hacer preguntas sobre la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can my family ask questions about my platelet count?
+  es: ¿Puede mi familia hacer preguntas sobre mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Can my family ask questions about my iron level?
+  es: ¿Puede mi familia hacer preguntas sobre mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I want to make sure I understand my blood test.
+  es: Quiero asegurarme de entender mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I want to make sure I understand my anemia.
+  es: Quiero asegurarme de entender mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I want to make sure I understand the transfusion.
+  es: Quiero asegurarme de entender la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I want to make sure I understand my platelet count.
+  es: Quiero asegurarme de entender mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I want to make sure I understand my iron level.
+  es: Quiero asegurarme de entender mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you use simpler words to explain my blood test?
+  es: ¿Podría usar palabras más sencillas para explicar mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you use simpler words to explain my anemia?
+  es: ¿Podría usar palabras más sencillas para explicar mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you use simpler words to explain the transfusion?
+  es: ¿Podría usar palabras más sencillas para explicar la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you use simpler words to explain my platelet count?
+  es: ¿Podría usar palabras más sencillas para explicar mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Could you use simpler words to explain my iron level?
+  es: ¿Podría usar palabras más sencillas para explicar mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Where can I find information in Spanish about my blood test?
+  es: ¿Dónde puedo encontrar información en español sobre mi análisis de sangre?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Where can I find information in Spanish about my anemia?
+  es: ¿Dónde puedo encontrar información en español sobre mi anemia?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Where can I find information in Spanish about the transfusion?
+  es: ¿Dónde puedo encontrar información en español sobre la transfusión?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Where can I find information in Spanish about my platelet count?
+  es: ¿Dónde puedo encontrar información en español sobre mi recuento de plaquetas?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: Where can I find information in Spanish about my iron level?
+  es: ¿Dónde puedo encontrar información en español sobre mi nivel de hierro?
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: We have not yet discussed my blood test.
+  es: Todavía no hemos hablado sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: We have not yet discussed my anemia.
+  es: Todavía no hemos hablado sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: We have not yet discussed the transfusion.
+  es: Todavía no hemos hablado sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: We have not yet discussed my platelet count.
+  es: Todavía no hemos hablado sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: We have not yet discussed my iron level.
+  es: Todavía no hemos hablado sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I wrote down my questions about my blood test.
+  es: Anoté mis preguntas sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I wrote down my questions about my anemia.
+  es: Anoté mis preguntas sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I wrote down my questions about the transfusion.
+  es: Anoté mis preguntas sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I wrote down my questions about my platelet count.
+  es: Anoté mis preguntas sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I wrote down my questions about my iron level.
+  es: Anoté mis preguntas sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like a copy of the information about my blood test.
+  es: Me gustaría recibir una copia de la información sobre mi análisis de sangre.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like a copy of the information about my anemia.
+  es: Me gustaría recibir una copia de la información sobre mi anemia.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like a copy of the information about the transfusion.
+  es: Me gustaría recibir una copia de la información sobre la transfusión.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like a copy of the information about my platelet count.
+  es: Me gustaría recibir una copia de la información sobre mi recuento de plaquetas.
+  notes: Authored communication practice.
+  specialty: hematology
+- difficulty: 2
+  en: I would like a copy of the information about my iron level.
+  es: Me gustaría recibir una copia de la información sobre mi nivel de hierro.
+  notes: Authored communication practice.
+  specialty: hematology

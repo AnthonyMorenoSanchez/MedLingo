@@ -1,0 +1,1 @@
+"""MedLingo app models package."""

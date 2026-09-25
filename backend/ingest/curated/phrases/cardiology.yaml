@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my heart rhythm?
+  es: ¿Puede explicar mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can you explain my blood pressure?
+  es: ¿Puede explicar mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can you explain the electrocardiogram?
+  es: ¿Puede explicar el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can you explain my cholesterol level?
+  es: ¿Puede explicar mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can you explain my chest pain?
+  es: ¿Puede explicar mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I have a question about my heart rhythm.
+  es: Tengo una pregunta sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I have a question about my blood pressure.
+  es: Tengo una pregunta sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I have a question about the electrocardiogram.
+  es: Tengo una pregunta sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I have a question about my cholesterol level.
+  es: Tengo una pregunta sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I have a question about my chest pain.
+  es: Tengo una pregunta sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I need help understanding my heart rhythm.
+  es: Necesito ayuda para entender mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I need help understanding my blood pressure.
+  es: Necesito ayuda para entender mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I need help understanding the electrocardiogram.
+  es: Necesito ayuda para entender el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I need help understanding my cholesterol level.
+  es: Necesito ayuda para entender mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I need help understanding my chest pain.
+  es: Necesito ayuda para entender mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please tell me more about my heart rhythm.
+  es: Por favor, dígame más sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please tell me more about my blood pressure.
+  es: Por favor, dígame más sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please tell me more about the electrocardiogram.
+  es: Por favor, dígame más sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please tell me more about my cholesterol level.
+  es: Por favor, dígame más sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please tell me more about my chest pain.
+  es: Por favor, dígame más sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like written information about my heart rhythm.
+  es: Me gustaría recibir información escrita sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like written information about my blood pressure.
+  es: Me gustaría recibir información escrita sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like written information about the electrocardiogram.
+  es: Me gustaría recibir información escrita sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like written information about my cholesterol level.
+  es: Me gustaría recibir información escrita sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like written information about my chest pain.
+  es: Me gustaría recibir información escrita sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could we discuss my heart rhythm with an interpreter?
+  es: ¿Podríamos hablar sobre mi ritmo cardíaco con un intérprete?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could we discuss my blood pressure with an interpreter?
+  es: ¿Podríamos hablar sobre mi presión arterial con un intérprete?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could we discuss the electrocardiogram with an interpreter?
+  es: ¿Podríamos hablar sobre el electrocardiograma con un intérprete?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could we discuss my cholesterol level with an interpreter?
+  es: ¿Podríamos hablar sobre mi nivel de colesterol con un intérprete?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could we discuss my chest pain with an interpreter?
+  es: ¿Podríamos hablar sobre mi dolor en el pecho con un intérprete?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you explain my heart rhythm again?
+  es: ¿Podría explicar mi ritmo cardíaco otra vez?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you explain my blood pressure again?
+  es: ¿Podría explicar mi presión arterial otra vez?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you explain the electrocardiogram again?
+  es: ¿Podría explicar el electrocardiograma otra vez?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you explain my cholesterol level again?
+  es: ¿Podría explicar mi nivel de colesterol otra vez?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you explain my chest pain again?
+  es: ¿Podría explicar mi dolor en el pecho otra vez?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I do not understand the information about my heart rhythm.
+  es: No entiendo la información sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I do not understand the information about my blood pressure.
+  es: No entiendo la información sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I do not understand the information about the electrocardiogram.
+  es: No entiendo la información sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I do not understand the information about my cholesterol level.
+  es: No entiendo la información sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I do not understand the information about my chest pain.
+  es: No entiendo la información sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Who can answer my questions about my heart rhythm?
+  es: ¿Quién puede responder mis preguntas sobre mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Who can answer my questions about my blood pressure?
+  es: ¿Quién puede responder mis preguntas sobre mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Who can answer my questions about the electrocardiogram?
+  es: ¿Quién puede responder mis preguntas sobre el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Who can answer my questions about my cholesterol level?
+  es: ¿Quién puede responder mis preguntas sobre mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Who can answer my questions about my chest pain?
+  es: ¿Quién puede responder mis preguntas sobre mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can we review the information about my heart rhythm?
+  es: ¿Podemos revisar la información sobre mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can we review the information about my blood pressure?
+  es: ¿Podemos revisar la información sobre mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can we review the information about the electrocardiogram?
+  es: ¿Podemos revisar la información sobre el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can we review the information about my cholesterol level?
+  es: ¿Podemos revisar la información sobre mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can we review the information about my chest pain?
+  es: ¿Podemos revisar la información sobre mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please write down the information about my heart rhythm.
+  es: Por favor, anote la información sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please write down the information about my blood pressure.
+  es: Por favor, anote la información sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please write down the information about the electrocardiogram.
+  es: Por favor, anote la información sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please write down the information about my cholesterol level.
+  es: Por favor, anote la información sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Please write down the information about my chest pain.
+  es: Por favor, anote la información sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like to talk to the doctor about my heart rhythm.
+  es: Me gustaría hablar con el médico sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like to talk to the doctor about my blood pressure.
+  es: Me gustaría hablar con el médico sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like to talk to the doctor about the electrocardiogram.
+  es: Me gustaría hablar con el médico sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like to talk to the doctor about my cholesterol level.
+  es: Me gustaría hablar con el médico sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like to talk to the doctor about my chest pain.
+  es: Me gustaría hablar con el médico sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my heart rhythm?
+  es: ¿Podría hablar más despacio al explicar mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my blood pressure?
+  es: ¿Podría hablar más despacio al explicar mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you speak more slowly when explaining the electrocardiogram?
+  es: ¿Podría hablar más despacio al explicar el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my cholesterol level?
+  es: ¿Podría hablar más despacio al explicar mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my chest pain?
+  es: ¿Podría hablar más despacio al explicar mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Thank you for explaining my heart rhythm.
+  es: Gracias por explicar mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Thank you for explaining my blood pressure.
+  es: Gracias por explicar mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Thank you for explaining the electrocardiogram.
+  es: Gracias por explicar el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Thank you for explaining my cholesterol level.
+  es: Gracias por explicar mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Thank you for explaining my chest pain.
+  es: Gracias por explicar mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Is there a brochure about my heart rhythm?
+  es: ¿Hay un folleto sobre mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Is there a brochure about my blood pressure?
+  es: ¿Hay un folleto sobre mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Is there a brochure about the electrocardiogram?
+  es: ¿Hay un folleto sobre el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Is there a brochure about my cholesterol level?
+  es: ¿Hay un folleto sobre mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Is there a brochure about my chest pain?
+  es: ¿Hay un folleto sobre mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can my family ask questions about my heart rhythm?
+  es: ¿Puede mi familia hacer preguntas sobre mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can my family ask questions about my blood pressure?
+  es: ¿Puede mi familia hacer preguntas sobre mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can my family ask questions about the electrocardiogram?
+  es: ¿Puede mi familia hacer preguntas sobre el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can my family ask questions about my cholesterol level?
+  es: ¿Puede mi familia hacer preguntas sobre mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Can my family ask questions about my chest pain?
+  es: ¿Puede mi familia hacer preguntas sobre mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I want to make sure I understand my heart rhythm.
+  es: Quiero asegurarme de entender mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I want to make sure I understand my blood pressure.
+  es: Quiero asegurarme de entender mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I want to make sure I understand the electrocardiogram.
+  es: Quiero asegurarme de entender el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I want to make sure I understand my cholesterol level.
+  es: Quiero asegurarme de entender mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I want to make sure I understand my chest pain.
+  es: Quiero asegurarme de entender mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you use simpler words to explain my heart rhythm?
+  es: ¿Podría usar palabras más sencillas para explicar mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you use simpler words to explain my blood pressure?
+  es: ¿Podría usar palabras más sencillas para explicar mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you use simpler words to explain the electrocardiogram?
+  es: ¿Podría usar palabras más sencillas para explicar el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you use simpler words to explain my cholesterol level?
+  es: ¿Podría usar palabras más sencillas para explicar mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Could you use simpler words to explain my chest pain?
+  es: ¿Podría usar palabras más sencillas para explicar mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Where can I find information in Spanish about my heart rhythm?
+  es: ¿Dónde puedo encontrar información en español sobre mi ritmo cardíaco?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Where can I find information in Spanish about my blood pressure?
+  es: ¿Dónde puedo encontrar información en español sobre mi presión arterial?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Where can I find information in Spanish about the electrocardiogram?
+  es: ¿Dónde puedo encontrar información en español sobre el electrocardiograma?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Where can I find information in Spanish about my cholesterol level?
+  es: ¿Dónde puedo encontrar información en español sobre mi nivel de colesterol?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: Where can I find information in Spanish about my chest pain?
+  es: ¿Dónde puedo encontrar información en español sobre mi dolor en el pecho?
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: We have not yet discussed my heart rhythm.
+  es: Todavía no hemos hablado sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: We have not yet discussed my blood pressure.
+  es: Todavía no hemos hablado sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: We have not yet discussed the electrocardiogram.
+  es: Todavía no hemos hablado sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: We have not yet discussed my cholesterol level.
+  es: Todavía no hemos hablado sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: We have not yet discussed my chest pain.
+  es: Todavía no hemos hablado sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I wrote down my questions about my heart rhythm.
+  es: Anoté mis preguntas sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I wrote down my questions about my blood pressure.
+  es: Anoté mis preguntas sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I wrote down my questions about the electrocardiogram.
+  es: Anoté mis preguntas sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I wrote down my questions about my cholesterol level.
+  es: Anoté mis preguntas sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I wrote down my questions about my chest pain.
+  es: Anoté mis preguntas sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like a copy of the information about my heart rhythm.
+  es: Me gustaría recibir una copia de la información sobre mi ritmo cardíaco.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like a copy of the information about my blood pressure.
+  es: Me gustaría recibir una copia de la información sobre mi presión arterial.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like a copy of the information about the electrocardiogram.
+  es: Me gustaría recibir una copia de la información sobre el electrocardiograma.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like a copy of the information about my cholesterol level.
+  es: Me gustaría recibir una copia de la información sobre mi nivel de colesterol.
+  notes: Authored communication practice.
+  specialty: cardiology
+- difficulty: 2
+  en: I would like a copy of the information about my chest pain.
+  es: Me gustaría recibir una copia de la información sobre mi dolor en el pecho.
+  notes: Authored communication practice.
+  specialty: cardiology

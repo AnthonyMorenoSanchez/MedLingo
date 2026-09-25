@@ -1,0 +1,6 @@
+import {test,expect} from '@playwright/test';
+test.beforeEach(async({page})=>{await page.addInitScript(()=>localStorage.setItem('medlingo.profile','1'))});
+test('actual process restart preserves progress and increments restart count',async({request,page})=>{
+ const batch=await (await request.post('/api/sessions',{data:{count:1,kinds:['fill_blank'],specialties:['general_medicine']}})).json();await request.post('/api/attempts',{data:{session_id:batch.session.id,item_id:batch.items[0].id,answer_given:batch.items[0].payload.giveup.answer_display,time_ms:2500,client_day:'2026-09-13'}});await request.post(`/api/sessions/${batch.session.id}/end`);
+ const totals=await (await request.get('/api/stats/overview')).json();const runtime=await (await request.get('/api/runtime')).json();expect((await request.post('http://127.0.0.1:8766/restart')).ok()).toBe(true);const after=await (await request.get('/api/stats/overview')).json();const run=await (await request.get('/api/runtime')).json();expect(after.attempts).toBe(totals.attempts);expect(after.total_study_ms).toBe(totals.total_study_ms);expect(run.restarts).toBe(runtime.restarts+1);await page.goto('/dashboard');await expect(page.locator('.dashboard-grid')).toBeVisible();
+});

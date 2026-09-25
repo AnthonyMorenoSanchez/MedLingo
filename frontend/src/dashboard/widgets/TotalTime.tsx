@@ -1,0 +1,1 @@
+import type {WidgetProps} from '../types';import {t} from '../../i18n';import {duration} from '../../lib/time';export default function TotalTime({data}:WidgetProps){return <div className="metric-widget"><span className="eyebrow">{t('total')}</span><strong>{duration(data.overview.total_study_ms||0)}</strong></div>}

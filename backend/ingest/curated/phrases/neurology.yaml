@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my headache?
+  es: ¿Puede explicar mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can you explain my memory?
+  es: ¿Puede explicar mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can you explain the neurological examination?
+  es: ¿Puede explicar la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can you explain my balance?
+  es: ¿Puede explicar mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can you explain my seizures?
+  es: ¿Puede explicar mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I have a question about my headache.
+  es: Tengo una pregunta sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I have a question about my memory.
+  es: Tengo una pregunta sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I have a question about the neurological examination.
+  es: Tengo una pregunta sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I have a question about my balance.
+  es: Tengo una pregunta sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I have a question about my seizures.
+  es: Tengo una pregunta sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I need help understanding my headache.
+  es: Necesito ayuda para entender mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I need help understanding my memory.
+  es: Necesito ayuda para entender mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I need help understanding the neurological examination.
+  es: Necesito ayuda para entender la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I need help understanding my balance.
+  es: Necesito ayuda para entender mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I need help understanding my seizures.
+  es: Necesito ayuda para entender mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please tell me more about my headache.
+  es: Por favor, dígame más sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please tell me more about my memory.
+  es: Por favor, dígame más sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please tell me more about the neurological examination.
+  es: Por favor, dígame más sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please tell me more about my balance.
+  es: Por favor, dígame más sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please tell me more about my seizures.
+  es: Por favor, dígame más sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like written information about my headache.
+  es: Me gustaría recibir información escrita sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like written information about my memory.
+  es: Me gustaría recibir información escrita sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like written information about the neurological examination.
+  es: Me gustaría recibir información escrita sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like written information about my balance.
+  es: Me gustaría recibir información escrita sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like written information about my seizures.
+  es: Me gustaría recibir información escrita sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could we discuss my headache with an interpreter?
+  es: ¿Podríamos hablar sobre mi dolor de cabeza con un intérprete?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could we discuss my memory with an interpreter?
+  es: ¿Podríamos hablar sobre mi memoria con un intérprete?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could we discuss the neurological examination with an interpreter?
+  es: ¿Podríamos hablar sobre la exploración neurológica con un intérprete?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could we discuss my balance with an interpreter?
+  es: ¿Podríamos hablar sobre mi equilibrio con un intérprete?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could we discuss my seizures with an interpreter?
+  es: ¿Podríamos hablar sobre mis convulsiones con un intérprete?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you explain my headache again?
+  es: ¿Podría explicar mi dolor de cabeza otra vez?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you explain my memory again?
+  es: ¿Podría explicar mi memoria otra vez?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you explain the neurological examination again?
+  es: ¿Podría explicar la exploración neurológica otra vez?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you explain my balance again?
+  es: ¿Podría explicar mi equilibrio otra vez?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you explain my seizures again?
+  es: ¿Podría explicar mis convulsiones otra vez?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I do not understand the information about my headache.
+  es: No entiendo la información sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I do not understand the information about my memory.
+  es: No entiendo la información sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I do not understand the information about the neurological examination.
+  es: No entiendo la información sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I do not understand the information about my balance.
+  es: No entiendo la información sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I do not understand the information about my seizures.
+  es: No entiendo la información sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Who can answer my questions about my headache?
+  es: ¿Quién puede responder mis preguntas sobre mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Who can answer my questions about my memory?
+  es: ¿Quién puede responder mis preguntas sobre mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Who can answer my questions about the neurological examination?
+  es: ¿Quién puede responder mis preguntas sobre la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Who can answer my questions about my balance?
+  es: ¿Quién puede responder mis preguntas sobre mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Who can answer my questions about my seizures?
+  es: ¿Quién puede responder mis preguntas sobre mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can we review the information about my headache?
+  es: ¿Podemos revisar la información sobre mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can we review the information about my memory?
+  es: ¿Podemos revisar la información sobre mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can we review the information about the neurological examination?
+  es: ¿Podemos revisar la información sobre la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can we review the information about my balance?
+  es: ¿Podemos revisar la información sobre mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can we review the information about my seizures?
+  es: ¿Podemos revisar la información sobre mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please write down the information about my headache.
+  es: Por favor, anote la información sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please write down the information about my memory.
+  es: Por favor, anote la información sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please write down the information about the neurological examination.
+  es: Por favor, anote la información sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please write down the information about my balance.
+  es: Por favor, anote la información sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Please write down the information about my seizures.
+  es: Por favor, anote la información sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like to talk to the doctor about my headache.
+  es: Me gustaría hablar con el médico sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like to talk to the doctor about my memory.
+  es: Me gustaría hablar con el médico sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like to talk to the doctor about the neurological examination.
+  es: Me gustaría hablar con el médico sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like to talk to the doctor about my balance.
+  es: Me gustaría hablar con el médico sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like to talk to the doctor about my seizures.
+  es: Me gustaría hablar con el médico sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my headache?
+  es: ¿Podría hablar más despacio al explicar mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my memory?
+  es: ¿Podría hablar más despacio al explicar mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you speak more slowly when explaining the neurological examination?
+  es: ¿Podría hablar más despacio al explicar la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my balance?
+  es: ¿Podría hablar más despacio al explicar mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you speak more slowly when explaining my seizures?
+  es: ¿Podría hablar más despacio al explicar mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Thank you for explaining my headache.
+  es: Gracias por explicar mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Thank you for explaining my memory.
+  es: Gracias por explicar mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Thank you for explaining the neurological examination.
+  es: Gracias por explicar la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Thank you for explaining my balance.
+  es: Gracias por explicar mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Thank you for explaining my seizures.
+  es: Gracias por explicar mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Is there a brochure about my headache?
+  es: ¿Hay un folleto sobre mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Is there a brochure about my memory?
+  es: ¿Hay un folleto sobre mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Is there a brochure about the neurological examination?
+  es: ¿Hay un folleto sobre la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Is there a brochure about my balance?
+  es: ¿Hay un folleto sobre mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Is there a brochure about my seizures?
+  es: ¿Hay un folleto sobre mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can my family ask questions about my headache?
+  es: ¿Puede mi familia hacer preguntas sobre mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can my family ask questions about my memory?
+  es: ¿Puede mi familia hacer preguntas sobre mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can my family ask questions about the neurological examination?
+  es: ¿Puede mi familia hacer preguntas sobre la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can my family ask questions about my balance?
+  es: ¿Puede mi familia hacer preguntas sobre mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Can my family ask questions about my seizures?
+  es: ¿Puede mi familia hacer preguntas sobre mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I want to make sure I understand my headache.
+  es: Quiero asegurarme de entender mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I want to make sure I understand my memory.
+  es: Quiero asegurarme de entender mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I want to make sure I understand the neurological examination.
+  es: Quiero asegurarme de entender la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I want to make sure I understand my balance.
+  es: Quiero asegurarme de entender mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I want to make sure I understand my seizures.
+  es: Quiero asegurarme de entender mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you use simpler words to explain my headache?
+  es: ¿Podría usar palabras más sencillas para explicar mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you use simpler words to explain my memory?
+  es: ¿Podría usar palabras más sencillas para explicar mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you use simpler words to explain the neurological examination?
+  es: ¿Podría usar palabras más sencillas para explicar la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you use simpler words to explain my balance?
+  es: ¿Podría usar palabras más sencillas para explicar mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Could you use simpler words to explain my seizures?
+  es: ¿Podría usar palabras más sencillas para explicar mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Where can I find information in Spanish about my headache?
+  es: ¿Dónde puedo encontrar información en español sobre mi dolor de cabeza?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Where can I find information in Spanish about my memory?
+  es: ¿Dónde puedo encontrar información en español sobre mi memoria?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Where can I find information in Spanish about the neurological examination?
+  es: ¿Dónde puedo encontrar información en español sobre la exploración neurológica?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Where can I find information in Spanish about my balance?
+  es: ¿Dónde puedo encontrar información en español sobre mi equilibrio?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: Where can I find information in Spanish about my seizures?
+  es: ¿Dónde puedo encontrar información en español sobre mis convulsiones?
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: We have not yet discussed my headache.
+  es: Todavía no hemos hablado sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: We have not yet discussed my memory.
+  es: Todavía no hemos hablado sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: We have not yet discussed the neurological examination.
+  es: Todavía no hemos hablado sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: We have not yet discussed my balance.
+  es: Todavía no hemos hablado sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: We have not yet discussed my seizures.
+  es: Todavía no hemos hablado sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I wrote down my questions about my headache.
+  es: Anoté mis preguntas sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I wrote down my questions about my memory.
+  es: Anoté mis preguntas sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I wrote down my questions about the neurological examination.
+  es: Anoté mis preguntas sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I wrote down my questions about my balance.
+  es: Anoté mis preguntas sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I wrote down my questions about my seizures.
+  es: Anoté mis preguntas sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like a copy of the information about my headache.
+  es: Me gustaría recibir una copia de la información sobre mi dolor de cabeza.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like a copy of the information about my memory.
+  es: Me gustaría recibir una copia de la información sobre mi memoria.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like a copy of the information about the neurological examination.
+  es: Me gustaría recibir una copia de la información sobre la exploración neurológica.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like a copy of the information about my balance.
+  es: Me gustaría recibir una copia de la información sobre mi equilibrio.
+  notes: Authored communication practice.
+  specialty: neurology
+- difficulty: 2
+  en: I would like a copy of the information about my seizures.
+  es: Me gustaría recibir una copia de la información sobre mis convulsiones.
+  notes: Authored communication practice.
+  specialty: neurology

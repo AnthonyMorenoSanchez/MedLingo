@@ -1,0 +1,283 @@
+INFO:     Started server process [403]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8765 (Press CTRL+C to quit)
+INFO:     127.0.0.1:36360 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /assets/inter-latin-400-normal-BOOGhInR.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /assets/inter-latin-600-normal-D273HNI0.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /assets/inter-latin-500-normal-D2bGa7uu.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "POST /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36374 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36374 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /api/specialties HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/stats/overview?day=2026-09-18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /api/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /assets/inter-latin-700-normal-Sckx8rpT.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36388 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36378 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "PUT /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36388 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36388 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36388 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36388 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36388 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36388 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36378 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36374 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36378 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36378 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36374 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36378 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36368 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36374 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /assets/inter-latin-400-normal-BOOGhInR.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /assets/inter-latin-600-normal-D273HNI0.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36438 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET /assets/inter-latin-700-normal-Sckx8rpT.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /assets/inter-latin-500-normal-D2bGa7uu.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "PUT /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36416 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36400 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "PUT /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36422 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36400 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36422 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36422 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36416 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36400 - "PUT /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47738 - "GET /ai HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47738 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47740 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47738 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47754 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47740 - "GET /assets/inter-latin-400-normal-BOOGhInR.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47754 - "GET /assets/AIConversation-Lb47rqCl.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47738 - "GET /assets/inter-latin-600-normal-D273HNI0.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47740 - "GET /assets/inter-latin-700-normal-Sckx8rpT.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47754 - "GET /assets/inter-latin-500-normal-D2bGa7uu.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47740 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47770 - "POST /api/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47770 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47770 - "POST /api/sessions/1/end HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47770 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47770 - "GET /api/runtime HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [403]
+INFO:     Started server process [550]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8765 (Press CTRL+C to quit)
+INFO:     127.0.0.1:47888 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47892 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47892 - "GET /api/runtime HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47908 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47910 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47908 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47908 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47910 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47924 - "GET /assets/inter-latin-400-normal-BOOGhInR.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47924 - "GET /assets/Dashboard-CjVxumrD.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47910 - "GET /assets/dashboardWidgets-FzcnEiqo.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47924 - "GET /assets/inter-latin-700-normal-Sckx8rpT.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47910 - "GET /assets/inter-latin-500-normal-D2bGa7uu.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47936 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47908 - "GET /assets/inter-latin-600-normal-D273HNI0.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47910 - "GET /api/stats/overview?day=2026-09-18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47908 - "GET /api/runtime HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47924 - "GET /api/stats/time HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47952 - "GET /api/review?tab=wrong HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47936 - "GET /api/stats/specialties HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47910 - "GET /api/review?tab=correct HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47908 - "GET /api/review?tab=leech HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47946 - "GET /api/stats/wrong_trend HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47954 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47954 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47954 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /assets/inter-latin-400-normal-BOOGhInR.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /assets/inter-latin-700-normal-Sckx8rpT.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /assets/inter-latin-500-normal-D2bGa7uu.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47954 - "GET /assets/inter-latin-600-normal-D273HNI0.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47994 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48010 - "GET /api/stats/overview?day=2026-09-18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/specialties HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /api/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /study/setup?specialty=urology HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/StudySetup-B8oBQSHn.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /api/specialties HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "POST /api/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/questionTypes-Bg1FczVI.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /assets/SpeakButton-_J6uFLJG.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /assets/StudySession-D6-_Z0dw.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/sessions/2/next HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/items/2/hint?level=1&session_id=2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/sessions/2/end HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/SessionSummary-ByZMdypK.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/sessions/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47970 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47970 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /assets/dashboardWidgets-FzcnEiqo.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/Dashboard-CjVxumrD.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/stats/overview?day=2026-09-18 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /api/stats/specialties HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48010 - "GET /api/stats/wrong_trend HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47970 - "GET /api/runtime HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47994 - "GET /api/review?tab=wrong HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47954 - "GET /api/stats/time HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/review?tab=correct HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /api/review?tab=leech HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48574 - "GET /api/stats/overview HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /review HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /assets/SpeakButton-_J6uFLJG.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48002 - "GET /assets/Review-BL4n12O2.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/specialties HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/review?tab=wrong&specialty=&kind=&direction=&q=&page=1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /banks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47986 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47986 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/Banks-1nRZBg3H.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /api/banks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /assets/TestRunner-CzLCVlfg.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "POST /api/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47986 - "GET /assets/StudySession-D6-_Z0dw.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48002 - "GET /assets/questionTypes-Bg1FczVI.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48002 - "GET /api/sessions/3/next HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "POST /api/sessions/3/end HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48002 - "GET /assets/SessionSummary-ByZMdypK.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48002 - "GET /api/sessions/3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48576 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48578 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48576 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48578 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48576 - "GET /assets/inter-latin-400-normal-BOOGhInR.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48576 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48578 - "GET /assets/inter-latin-600-normal-D273HNI0.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48576 - "GET /assets/inter-latin-500-normal-D2bGa7uu.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /assets/inter-latin-700-normal-Sckx8rpT.woff2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48602 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "PUT /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48602 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48602 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /encounters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /assets/Encounters-8ET3gxBE.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/encounters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /assets/EncounterPlayer-CrswFYYT.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "POST /api/sessions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /assets/StudySession-D6-_Z0dw.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /assets/questionTypes-Bg1FczVI.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /assets/SpeakButton-_J6uFLJG.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /api/sessions/4/next HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "POST /api/items/12/hint?level=1&session_id=4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "POST /api/attempts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "POST /api/sessions/4/end HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /assets/index-CYSEP91D.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48592 - "GET /assets/index-BtRTzuaL.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48592 - "GET /api/profiles/current HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /api/plugins HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /assets/Settings-CpmuudXY.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:48592 - "GET /api/profiles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48596 - "GET /api/ai/settings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48584 - "GET /api/ai/hardware HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "GET /api/voice/catalog HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48592 - "PUT /api/profiles/current HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [550]

@@ -1,0 +1,8 @@
+{
+  "environment": "Linux container, not a laptop benchmark",
+  "idle_rss_mb": null,
+  "session_create_p95_ms": 18.46,
+  "session_create_median_ms": 11.02,
+  "samples": 20,
+  "rss_note": "Not reliably measurable through the managed process launcher; the initial sub-megabyte observation is discarded."
+}

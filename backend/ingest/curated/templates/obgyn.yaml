@@ -1,0 +1,108 @@
+- difficulty: 2
+  en: The record mentions {TERM}.
+  es: El expediente menciona {TERM}.
+  key: obgyn_0
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: We are discussing {TERM}.
+  es: Estamos hablando de {TERM}.
+  key: obgyn_1
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: The question is about {TERM}.
+  es: La pregunta es sobre {TERM}.
+  key: obgyn_2
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: Please explain the term {TERM}.
+  es: Por favor, explique el término {TERM}.
+  key: obgyn_3
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: I need information about {TERM}.
+  es: Necesito información sobre {TERM}.
+  key: obgyn_4
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: We reviewed information about {TERM}.
+  es: Revisamos información sobre {TERM}.
+  key: obgyn_5
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: Do you have questions about {TERM}?
+  es: ¿Tiene preguntas sobre {TERM}?
+  key: obgyn_6
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: I would like to learn about {TERM}.
+  es: Me gustaría aprender sobre {TERM}.
+  key: obgyn_7
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: This section describes {TERM}.
+  es: Esta sección describe {TERM}.
+  key: obgyn_8
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: We can talk about {TERM}.
+  es: Podemos hablar sobre {TERM}.
+  key: obgyn_9
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: The interpreter explained the term {TERM}.
+  es: El intérprete explicó el término {TERM}.
+  key: obgyn_10
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn
+- difficulty: 2
+  en: Where can I read about {TERM}?
+  es: ¿Dónde puedo leer sobre {TERM}?
+  key: obgyn_11
+  register: patient
+  slots:
+    TERM:
+      type: any
+  specialty: obgyn

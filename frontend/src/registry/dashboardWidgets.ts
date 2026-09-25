@@ -1,0 +1,14 @@
+import type {ComponentType} from 'react';import type {WidgetProps} from '../dashboard/types';
+import TotalTime from '../dashboard/widgets/TotalTime';
+import TodayTime from '../dashboard/widgets/TodayTime';
+import Accuracy from '../dashboard/widgets/Accuracy';
+import StreakXp from '../dashboard/widgets/StreakXp';
+import RuntimeCard from '../dashboard/widgets/RuntimeCard';
+import SpecialtyRadar from '../dashboard/widgets/SpecialtyRadar';
+import TimePerQuestionHist from '../dashboard/widgets/TimePerQuestionHist';
+import DailyHeatmap from '../dashboard/widgets/DailyHeatmap';
+import WrongBankTrend from '../dashboard/widgets/WrongBankTrend';
+import WrongTable from '../dashboard/widgets/WrongTable';
+import CorrectTable from '../dashboard/widgets/CorrectTable';
+import LeechTable from '../dashboard/widgets/LeechTable';
+export const dashboardWidgets:{id:string;component:ComponentType<WidgetProps>;span:number}[]=[{id:'TotalTime',component:TotalTime,span:3},{id:'TodayTime',component:TodayTime,span:3},{id:'Accuracy',component:Accuracy,span:3},{id:'StreakXp',component:StreakXp,span:3},{id:'RuntimeCard',component:RuntimeCard,span:6},{id:'SpecialtyRadar',component:SpecialtyRadar,span:6},{id:'TimePerQuestionHist',component:TimePerQuestionHist,span:6},{id:'DailyHeatmap',component:DailyHeatmap,span:12},{id:'WrongBankTrend',component:WrongBankTrend,span:6},{id:'WrongTable',component:WrongTable,span:6},{id:'CorrectTable',component:CorrectTable,span:6},{id:'LeechTable',component:LeechTable,span:6}];

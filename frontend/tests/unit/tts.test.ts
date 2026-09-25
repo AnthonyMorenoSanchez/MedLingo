@@ -1,0 +1,4 @@
+import {it,expect} from 'vitest';import {chooseVoice} from '../../src/lib/tts';
+it('never reads Spanish with an English voice even when preferred',()=>{const voices=[{name:'English',lang:'en-US',localService:true},{name:'Mexico',lang:'es-MX',localService:true}] as SpeechSynthesisVoice[];expect(chooseVoice(voices,'es','English')?.name).toBe('Mexico');expect(chooseVoice(voices,'en','Mexico')?.name).toBe('English')});
+it('offline selection excludes online voices and has no wrong-language fallback',()=>{const voices=[{name:'English',lang:'en-US',localService:true},{name:'Online Spanish',lang:'es-AR',localService:false}] as SpeechSynthesisVoice[];expect(chooseVoice(voices,'es')).toBeUndefined()});
+it('respects matching regional preference',()=>{const voices=[{name:'Spain',lang:'es-ES',localService:true},{name:'Argentina',lang:'es-AR',localService:true}] as SpeechSynthesisVoice[];expect(chooseVoice(voices,'es','Argentina')?.name).toBe('Argentina')});

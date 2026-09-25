@@ -1,0 +1,1 @@
+import type {WidgetProps} from '../types';import {t} from '../../i18n';export default function Accuracy({data}:WidgetProps){return <div className="metric-widget"><span className="eyebrow">{t('accuracy')}</span><strong>{Math.round(data.overview.accuracy||0)+'%'}</strong></div>}

@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain my pregnancy?
+  es: ¿Puede explicar mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can you explain my prenatal visit?
+  es: ¿Puede explicar mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can you explain the ultrasound?
+  es: ¿Puede explicar la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can you explain breastfeeding?
+  es: ¿Puede explicar la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can you explain my menstrual cycle?
+  es: ¿Puede explicar mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I have a question about my pregnancy.
+  es: Tengo una pregunta sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I have a question about my prenatal visit.
+  es: Tengo una pregunta sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I have a question about the ultrasound.
+  es: Tengo una pregunta sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I have a question about breastfeeding.
+  es: Tengo una pregunta sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I have a question about my menstrual cycle.
+  es: Tengo una pregunta sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I need help understanding my pregnancy.
+  es: Necesito ayuda para entender mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I need help understanding my prenatal visit.
+  es: Necesito ayuda para entender mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I need help understanding the ultrasound.
+  es: Necesito ayuda para entender la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I need help understanding breastfeeding.
+  es: Necesito ayuda para entender la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I need help understanding my menstrual cycle.
+  es: Necesito ayuda para entender mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please tell me more about my pregnancy.
+  es: Por favor, dígame más sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please tell me more about my prenatal visit.
+  es: Por favor, dígame más sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please tell me more about the ultrasound.
+  es: Por favor, dígame más sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please tell me more about breastfeeding.
+  es: Por favor, dígame más sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please tell me more about my menstrual cycle.
+  es: Por favor, dígame más sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like written information about my pregnancy.
+  es: Me gustaría recibir información escrita sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like written information about my prenatal visit.
+  es: Me gustaría recibir información escrita sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like written information about the ultrasound.
+  es: Me gustaría recibir información escrita sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like written information about breastfeeding.
+  es: Me gustaría recibir información escrita sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like written information about my menstrual cycle.
+  es: Me gustaría recibir información escrita sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could we discuss my pregnancy with an interpreter?
+  es: ¿Podríamos hablar sobre mi embarazo con un intérprete?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could we discuss my prenatal visit with an interpreter?
+  es: ¿Podríamos hablar sobre mi consulta prenatal con un intérprete?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could we discuss the ultrasound with an interpreter?
+  es: ¿Podríamos hablar sobre la ecografía con un intérprete?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could we discuss breastfeeding with an interpreter?
+  es: ¿Podríamos hablar sobre la lactancia materna con un intérprete?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could we discuss my menstrual cycle with an interpreter?
+  es: ¿Podríamos hablar sobre mi ciclo menstrual con un intérprete?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you explain my pregnancy again?
+  es: ¿Podría explicar mi embarazo otra vez?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you explain my prenatal visit again?
+  es: ¿Podría explicar mi consulta prenatal otra vez?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you explain the ultrasound again?
+  es: ¿Podría explicar la ecografía otra vez?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you explain breastfeeding again?
+  es: ¿Podría explicar la lactancia materna otra vez?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you explain my menstrual cycle again?
+  es: ¿Podría explicar mi ciclo menstrual otra vez?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I do not understand the information about my pregnancy.
+  es: No entiendo la información sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I do not understand the information about my prenatal visit.
+  es: No entiendo la información sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I do not understand the information about the ultrasound.
+  es: No entiendo la información sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I do not understand the information about breastfeeding.
+  es: No entiendo la información sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I do not understand the information about my menstrual cycle.
+  es: No entiendo la información sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Who can answer my questions about my pregnancy?
+  es: ¿Quién puede responder mis preguntas sobre mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Who can answer my questions about my prenatal visit?
+  es: ¿Quién puede responder mis preguntas sobre mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Who can answer my questions about the ultrasound?
+  es: ¿Quién puede responder mis preguntas sobre la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Who can answer my questions about breastfeeding?
+  es: ¿Quién puede responder mis preguntas sobre la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Who can answer my questions about my menstrual cycle?
+  es: ¿Quién puede responder mis preguntas sobre mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can we review the information about my pregnancy?
+  es: ¿Podemos revisar la información sobre mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can we review the information about my prenatal visit?
+  es: ¿Podemos revisar la información sobre mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can we review the information about the ultrasound?
+  es: ¿Podemos revisar la información sobre la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can we review the information about breastfeeding?
+  es: ¿Podemos revisar la información sobre la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can we review the information about my menstrual cycle?
+  es: ¿Podemos revisar la información sobre mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please write down the information about my pregnancy.
+  es: Por favor, anote la información sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please write down the information about my prenatal visit.
+  es: Por favor, anote la información sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please write down the information about the ultrasound.
+  es: Por favor, anote la información sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please write down the information about breastfeeding.
+  es: Por favor, anote la información sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Please write down the information about my menstrual cycle.
+  es: Por favor, anote la información sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like to talk to the doctor about my pregnancy.
+  es: Me gustaría hablar con el médico sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like to talk to the doctor about my prenatal visit.
+  es: Me gustaría hablar con el médico sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like to talk to the doctor about the ultrasound.
+  es: Me gustaría hablar con el médico sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like to talk to the doctor about breastfeeding.
+  es: Me gustaría hablar con el médico sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like to talk to the doctor about my menstrual cycle.
+  es: Me gustaría hablar con el médico sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you speak more slowly when explaining my pregnancy?
+  es: ¿Podría hablar más despacio al explicar mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you speak more slowly when explaining my prenatal visit?
+  es: ¿Podría hablar más despacio al explicar mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you speak more slowly when explaining the ultrasound?
+  es: ¿Podría hablar más despacio al explicar la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you speak more slowly when explaining breastfeeding?
+  es: ¿Podría hablar más despacio al explicar la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you speak more slowly when explaining my menstrual cycle?
+  es: ¿Podría hablar más despacio al explicar mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Thank you for explaining my pregnancy.
+  es: Gracias por explicar mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Thank you for explaining my prenatal visit.
+  es: Gracias por explicar mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Thank you for explaining the ultrasound.
+  es: Gracias por explicar la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Thank you for explaining breastfeeding.
+  es: Gracias por explicar la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Thank you for explaining my menstrual cycle.
+  es: Gracias por explicar mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Is there a brochure about my pregnancy?
+  es: ¿Hay un folleto sobre mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Is there a brochure about my prenatal visit?
+  es: ¿Hay un folleto sobre mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Is there a brochure about the ultrasound?
+  es: ¿Hay un folleto sobre la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Is there a brochure about breastfeeding?
+  es: ¿Hay un folleto sobre la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Is there a brochure about my menstrual cycle?
+  es: ¿Hay un folleto sobre mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can my family ask questions about my pregnancy?
+  es: ¿Puede mi familia hacer preguntas sobre mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can my family ask questions about my prenatal visit?
+  es: ¿Puede mi familia hacer preguntas sobre mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can my family ask questions about the ultrasound?
+  es: ¿Puede mi familia hacer preguntas sobre la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can my family ask questions about breastfeeding?
+  es: ¿Puede mi familia hacer preguntas sobre la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Can my family ask questions about my menstrual cycle?
+  es: ¿Puede mi familia hacer preguntas sobre mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I want to make sure I understand my pregnancy.
+  es: Quiero asegurarme de entender mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I want to make sure I understand my prenatal visit.
+  es: Quiero asegurarme de entender mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I want to make sure I understand the ultrasound.
+  es: Quiero asegurarme de entender la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I want to make sure I understand breastfeeding.
+  es: Quiero asegurarme de entender la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I want to make sure I understand my menstrual cycle.
+  es: Quiero asegurarme de entender mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you use simpler words to explain my pregnancy?
+  es: ¿Podría usar palabras más sencillas para explicar mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you use simpler words to explain my prenatal visit?
+  es: ¿Podría usar palabras más sencillas para explicar mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you use simpler words to explain the ultrasound?
+  es: ¿Podría usar palabras más sencillas para explicar la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you use simpler words to explain breastfeeding?
+  es: ¿Podría usar palabras más sencillas para explicar la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Could you use simpler words to explain my menstrual cycle?
+  es: ¿Podría usar palabras más sencillas para explicar mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Where can I find information in Spanish about my pregnancy?
+  es: ¿Dónde puedo encontrar información en español sobre mi embarazo?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Where can I find information in Spanish about my prenatal visit?
+  es: ¿Dónde puedo encontrar información en español sobre mi consulta prenatal?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Where can I find information in Spanish about the ultrasound?
+  es: ¿Dónde puedo encontrar información en español sobre la ecografía?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Where can I find information in Spanish about breastfeeding?
+  es: ¿Dónde puedo encontrar información en español sobre la lactancia materna?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: Where can I find information in Spanish about my menstrual cycle?
+  es: ¿Dónde puedo encontrar información en español sobre mi ciclo menstrual?
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: We have not yet discussed my pregnancy.
+  es: Todavía no hemos hablado sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: We have not yet discussed my prenatal visit.
+  es: Todavía no hemos hablado sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: We have not yet discussed the ultrasound.
+  es: Todavía no hemos hablado sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: We have not yet discussed breastfeeding.
+  es: Todavía no hemos hablado sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: We have not yet discussed my menstrual cycle.
+  es: Todavía no hemos hablado sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I wrote down my questions about my pregnancy.
+  es: Anoté mis preguntas sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I wrote down my questions about my prenatal visit.
+  es: Anoté mis preguntas sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I wrote down my questions about the ultrasound.
+  es: Anoté mis preguntas sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I wrote down my questions about breastfeeding.
+  es: Anoté mis preguntas sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I wrote down my questions about my menstrual cycle.
+  es: Anoté mis preguntas sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like a copy of the information about my pregnancy.
+  es: Me gustaría recibir una copia de la información sobre mi embarazo.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like a copy of the information about my prenatal visit.
+  es: Me gustaría recibir una copia de la información sobre mi consulta prenatal.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like a copy of the information about the ultrasound.
+  es: Me gustaría recibir una copia de la información sobre la ecografía.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like a copy of the information about breastfeeding.
+  es: Me gustaría recibir una copia de la información sobre la lactancia materna.
+  notes: Authored communication practice.
+  specialty: obgyn
+- difficulty: 2
+  en: I would like a copy of the information about my menstrual cycle.
+  es: Me gustaría recibir una copia de la información sobre mi ciclo menstrual.
+  notes: Authored communication practice.
+  specialty: obgyn

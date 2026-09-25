@@ -1,0 +1,1 @@
+export interface DashboardData{overview:any;runtime:any;specialties:any[];time:{daily:any[];histogram:any[]};trend:any[];wrong:any[];correct:any[];leech:any[]}export interface WidgetProps{data:DashboardData}

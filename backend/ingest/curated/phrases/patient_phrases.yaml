@@ -1,0 +1,550 @@
+- difficulty: 2
+  en: Can you explain the interpreter service?
+  es: ¿Puede explicar el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can you explain the consent form?
+  es: ¿Puede explicar el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can you explain my follow-up visit?
+  es: ¿Puede explicar mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can you explain the registration process?
+  es: ¿Puede explicar el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can you explain my medical history?
+  es: ¿Puede explicar mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I have a question about the interpreter service.
+  es: Tengo una pregunta sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I have a question about the consent form.
+  es: Tengo una pregunta sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I have a question about my follow-up visit.
+  es: Tengo una pregunta sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I have a question about the registration process.
+  es: Tengo una pregunta sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I have a question about my medical history.
+  es: Tengo una pregunta sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I need help understanding the interpreter service.
+  es: Necesito ayuda para entender el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I need help understanding the consent form.
+  es: Necesito ayuda para entender el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I need help understanding my follow-up visit.
+  es: Necesito ayuda para entender mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I need help understanding the registration process.
+  es: Necesito ayuda para entender el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I need help understanding my medical history.
+  es: Necesito ayuda para entender mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please tell me more about the interpreter service.
+  es: Por favor, dígame más sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please tell me more about the consent form.
+  es: Por favor, dígame más sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please tell me more about my follow-up visit.
+  es: Por favor, dígame más sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please tell me more about the registration process.
+  es: Por favor, dígame más sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please tell me more about my medical history.
+  es: Por favor, dígame más sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like written information about the interpreter service.
+  es: Me gustaría recibir información escrita sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like written information about the consent form.
+  es: Me gustaría recibir información escrita sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like written information about my follow-up visit.
+  es: Me gustaría recibir información escrita sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like written information about the registration process.
+  es: Me gustaría recibir información escrita sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like written information about my medical history.
+  es: Me gustaría recibir información escrita sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could we discuss the interpreter service with an interpreter?
+  es: ¿Podríamos hablar sobre el servicio de interpretación con un intérprete?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could we discuss the consent form with an interpreter?
+  es: ¿Podríamos hablar sobre el formulario de consentimiento con un intérprete?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could we discuss my follow-up visit with an interpreter?
+  es: ¿Podríamos hablar sobre mi consulta de seguimiento con un intérprete?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could we discuss the registration process with an interpreter?
+  es: ¿Podríamos hablar sobre el proceso de registro con un intérprete?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could we discuss my medical history with an interpreter?
+  es: ¿Podríamos hablar sobre mis antecedentes médicos con un intérprete?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you explain the interpreter service again?
+  es: ¿Podría explicar el servicio de interpretación otra vez?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you explain the consent form again?
+  es: ¿Podría explicar el formulario de consentimiento otra vez?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you explain my follow-up visit again?
+  es: ¿Podría explicar mi consulta de seguimiento otra vez?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you explain the registration process again?
+  es: ¿Podría explicar el proceso de registro otra vez?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you explain my medical history again?
+  es: ¿Podría explicar mis antecedentes médicos otra vez?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I do not understand the information about the interpreter service.
+  es: No entiendo la información sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I do not understand the information about the consent form.
+  es: No entiendo la información sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I do not understand the information about my follow-up visit.
+  es: No entiendo la información sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I do not understand the information about the registration process.
+  es: No entiendo la información sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I do not understand the information about my medical history.
+  es: No entiendo la información sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Who can answer my questions about the interpreter service?
+  es: ¿Quién puede responder mis preguntas sobre el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Who can answer my questions about the consent form?
+  es: ¿Quién puede responder mis preguntas sobre el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Who can answer my questions about my follow-up visit?
+  es: ¿Quién puede responder mis preguntas sobre mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Who can answer my questions about the registration process?
+  es: ¿Quién puede responder mis preguntas sobre el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Who can answer my questions about my medical history?
+  es: ¿Quién puede responder mis preguntas sobre mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can we review the information about the interpreter service?
+  es: ¿Podemos revisar la información sobre el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can we review the information about the consent form?
+  es: ¿Podemos revisar la información sobre el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can we review the information about my follow-up visit?
+  es: ¿Podemos revisar la información sobre mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can we review the information about the registration process?
+  es: ¿Podemos revisar la información sobre el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can we review the information about my medical history?
+  es: ¿Podemos revisar la información sobre mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please write down the information about the interpreter service.
+  es: Por favor, anote la información sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please write down the information about the consent form.
+  es: Por favor, anote la información sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please write down the information about my follow-up visit.
+  es: Por favor, anote la información sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please write down the information about the registration process.
+  es: Por favor, anote la información sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Please write down the information about my medical history.
+  es: Por favor, anote la información sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like to talk to the doctor about the interpreter service.
+  es: Me gustaría hablar con el médico sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like to talk to the doctor about the consent form.
+  es: Me gustaría hablar con el médico sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like to talk to the doctor about my follow-up visit.
+  es: Me gustaría hablar con el médico sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like to talk to the doctor about the registration process.
+  es: Me gustaría hablar con el médico sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like to talk to the doctor about my medical history.
+  es: Me gustaría hablar con el médico sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you speak more slowly when explaining the interpreter service?
+  es: ¿Podría hablar más despacio al explicar el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you speak more slowly when explaining the consent form?
+  es: ¿Podría hablar más despacio al explicar el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you speak more slowly when explaining my follow-up visit?
+  es: ¿Podría hablar más despacio al explicar mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you speak more slowly when explaining the registration process?
+  es: ¿Podría hablar más despacio al explicar el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you speak more slowly when explaining my medical history?
+  es: ¿Podría hablar más despacio al explicar mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Thank you for explaining the interpreter service.
+  es: Gracias por explicar el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Thank you for explaining the consent form.
+  es: Gracias por explicar el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Thank you for explaining my follow-up visit.
+  es: Gracias por explicar mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Thank you for explaining the registration process.
+  es: Gracias por explicar el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Thank you for explaining my medical history.
+  es: Gracias por explicar mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Is there a brochure about the interpreter service?
+  es: ¿Hay un folleto sobre el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Is there a brochure about the consent form?
+  es: ¿Hay un folleto sobre el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Is there a brochure about my follow-up visit?
+  es: ¿Hay un folleto sobre mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Is there a brochure about the registration process?
+  es: ¿Hay un folleto sobre el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Is there a brochure about my medical history?
+  es: ¿Hay un folleto sobre mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can my family ask questions about the interpreter service?
+  es: ¿Puede mi familia hacer preguntas sobre el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can my family ask questions about the consent form?
+  es: ¿Puede mi familia hacer preguntas sobre el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can my family ask questions about my follow-up visit?
+  es: ¿Puede mi familia hacer preguntas sobre mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can my family ask questions about the registration process?
+  es: ¿Puede mi familia hacer preguntas sobre el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Can my family ask questions about my medical history?
+  es: ¿Puede mi familia hacer preguntas sobre mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I want to make sure I understand the interpreter service.
+  es: Quiero asegurarme de entender el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I want to make sure I understand the consent form.
+  es: Quiero asegurarme de entender el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I want to make sure I understand my follow-up visit.
+  es: Quiero asegurarme de entender mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I want to make sure I understand the registration process.
+  es: Quiero asegurarme de entender el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I want to make sure I understand my medical history.
+  es: Quiero asegurarme de entender mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you use simpler words to explain the interpreter service?
+  es: ¿Podría usar palabras más sencillas para explicar el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you use simpler words to explain the consent form?
+  es: ¿Podría usar palabras más sencillas para explicar el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you use simpler words to explain my follow-up visit?
+  es: ¿Podría usar palabras más sencillas para explicar mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you use simpler words to explain the registration process?
+  es: ¿Podría usar palabras más sencillas para explicar el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Could you use simpler words to explain my medical history?
+  es: ¿Podría usar palabras más sencillas para explicar mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Where can I find information in Spanish about the interpreter service?
+  es: ¿Dónde puedo encontrar información en español sobre el servicio de interpretación?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Where can I find information in Spanish about the consent form?
+  es: ¿Dónde puedo encontrar información en español sobre el formulario de consentimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Where can I find information in Spanish about my follow-up visit?
+  es: ¿Dónde puedo encontrar información en español sobre mi consulta de seguimiento?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Where can I find information in Spanish about the registration process?
+  es: ¿Dónde puedo encontrar información en español sobre el proceso de registro?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: Where can I find information in Spanish about my medical history?
+  es: ¿Dónde puedo encontrar información en español sobre mis antecedentes médicos?
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: We have not yet discussed the interpreter service.
+  es: Todavía no hemos hablado sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: We have not yet discussed the consent form.
+  es: Todavía no hemos hablado sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: We have not yet discussed my follow-up visit.
+  es: Todavía no hemos hablado sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: We have not yet discussed the registration process.
+  es: Todavía no hemos hablado sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: We have not yet discussed my medical history.
+  es: Todavía no hemos hablado sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I wrote down my questions about the interpreter service.
+  es: Anoté mis preguntas sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I wrote down my questions about the consent form.
+  es: Anoté mis preguntas sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I wrote down my questions about my follow-up visit.
+  es: Anoté mis preguntas sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I wrote down my questions about the registration process.
+  es: Anoté mis preguntas sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I wrote down my questions about my medical history.
+  es: Anoté mis preguntas sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like a copy of the information about the interpreter service.
+  es: Me gustaría recibir una copia de la información sobre el servicio de interpretación.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like a copy of the information about the consent form.
+  es: Me gustaría recibir una copia de la información sobre el formulario de consentimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like a copy of the information about my follow-up visit.
+  es: Me gustaría recibir una copia de la información sobre mi consulta de seguimiento.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like a copy of the information about the registration process.
+  es: Me gustaría recibir una copia de la información sobre el proceso de registro.
+  notes: Authored communication practice.
+  specialty: patient_phrases
+- difficulty: 2
+  en: I would like a copy of the information about my medical history.
+  es: Me gustaría recibir una copia de la información sobre mis antecedentes médicos.
+  notes: Authored communication practice.
+  specialty: patient_phrases

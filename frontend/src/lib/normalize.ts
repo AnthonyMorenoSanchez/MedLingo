@@ -1,0 +1,1 @@
+export function normalize(value:string,articleRequired=false,accents=false){let s=value.toLowerCase().trim().replace(/^[¿¡?!.,;: ]+|[¿¡?!.,;: ]+$/g,'').replace(/\s+/g,' ');if(!articleRequired)s=s.replace(/^(el|la|los|las|un|una)\s+/,'');return accents?s.normalize('NFD').replace(/[\u0300-\u036f]/g,''):s;}

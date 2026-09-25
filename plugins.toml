@@ -1,0 +1,11 @@
+[cloud_tts]
+enabled = false
+provider = "google"      # google | azure | elevenlabs
+voice = "es-US-Neural2-A"
+cache_dir = "data/audio_cache"
+
+[ai_patient]
+enabled = false
+provider = "ollama"      # openai | anthropic | ollama
+model = "llama3.1"
+max_turns = 12

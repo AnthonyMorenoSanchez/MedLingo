@@ -1,0 +1,2343 @@
+add:
+- difficulty: 1
+  en: fever
+  es: fiebre
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: pain
+  es: dolor
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: fatigue
+  es: fatiga
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: nausea
+  es: náusea
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: vomiting
+  es: vómito
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: cough
+  es: tos
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: headache
+  es: dolor de cabeza
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: dizziness
+  es: mareo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: allergy
+  es: alergia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: appointment
+  es: cita
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: medication
+  es: medicamento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: prescription
+  es: receta
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: blood pressure
+  es: presión arterial
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: temperature
+  es: temperatura
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: weight
+  es: peso
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: height
+  es: estatura
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: pulse
+  es: pulso
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: examination
+  es: exploración
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: diagnosis
+  es: diagnóstico
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: treatment
+  es: tratamiento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - general_medicine
+- difficulty: 1
+  en: urine
+  es: orina
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: kidney
+  es: riñón
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: bladder
+  es: vejiga
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: ureter
+  es: uréter
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urethra
+  es: uretra
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: prostate
+  es: próstata
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urinary tract infection
+  es: infección de las vías urinarias
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: kidney stone
+  es: cálculo renal
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: blood in the urine
+  es: sangre en la orina
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urinary retention
+  es: retención urinaria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urinary incontinence
+  es: incontinencia urinaria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: painful urination
+  es: dolor al orinar
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urinary frequency
+  es: frecuencia urinaria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urine sample
+  es: muestra de orina
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urine culture
+  es: cultivo de orina
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: catheter
+  es: sonda
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: testicle
+  es: testículo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: scrotum
+  es: escroto
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: renal function
+  es: función renal
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: urinary urgency
+  es: urgencia urinaria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - urology
+- difficulty: 1
+  en: blood
+  es: sangre
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: anemia
+  es: anemia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: platelet
+  es: plaqueta
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: red blood cell
+  es: glóbulo rojo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: white blood cell
+  es: glóbulo blanco
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: hemoglobin
+  es: hemoglobina
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: hematocrit
+  es: hematocrito
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: clot
+  es: coágulo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: bleeding
+  es: sangrado
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: bruise
+  es: moretón
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: bone marrow
+  es: médula ósea
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: transfusion
+  es: transfusión
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: iron deficiency
+  es: deficiencia de hierro
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: coagulation
+  es: coagulación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: leukemia
+  es: leucemia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: lymphoma
+  es: linfoma
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: sickle cell disease
+  es: enfermedad de células falciformes
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: complete blood count
+  es: hemograma completo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: pallor
+  es: palidez
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: blood sample
+  es: muestra de sangre
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - hematology
+- difficulty: 1
+  en: heart
+  es: corazón
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: artery
+  es: arteria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: vein
+  es: vena
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: chest pain
+  es: dolor en el pecho
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: palpitation
+  es: palpitación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: heart failure
+  es: insuficiencia cardíaca
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: heart attack
+  es: infarto de miocardio
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: arrhythmia
+  es: arritmia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: hypertension
+  es: hipertensión
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: heart valve
+  es: válvula cardíaca
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: electrocardiogram
+  es: electrocardiograma
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: echocardiogram
+  es: ecocardiograma
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: pacemaker
+  es: marcapasos
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: cholesterol
+  es: colesterol
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: edema
+  es: edema
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: heart rate
+  es: frecuencia cardíaca
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: angina
+  es: angina de pecho
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: coronary artery
+  es: arteria coronaria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: ventricle
+  es: ventrículo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: atrium
+  es: aurícula
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - cardiology
+- difficulty: 1
+  en: lung
+  es: pulmón
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: breathing
+  es: respiración
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: shortness of breath
+  es: falta de aire
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: wheezing
+  es: sibilancia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: sputum
+  es: esputo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: asthma
+  es: asma
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: pneumonia
+  es: neumonía
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: bronchitis
+  es: bronquitis
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: oxygen
+  es: oxígeno
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: inhaler
+  es: inhalador
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: trachea
+  es: tráquea
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: bronchus
+  es: bronquio
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: pleura
+  es: pleura
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: spirometry
+  es: espirometría
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: chest X-ray
+  es: radiografía de tórax
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: oxygen saturation
+  es: saturación de oxígeno
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: sleep apnea
+  es: apnea del sueño
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: respiratory failure
+  es: insuficiencia respiratoria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: pulmonary embolism
+  es: embolia pulmonar
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: coughing up blood
+  es: expectoración con sangre
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pulmonology
+- difficulty: 1
+  en: stomach
+  es: estómago
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: liver
+  es: hígado
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: intestine
+  es: intestino
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: abdominal pain
+  es: dolor abdominal
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: diarrhea
+  es: diarrea
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: constipation
+  es: estreñimiento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: heartburn
+  es: acidez estomacal
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: swallowing
+  es: deglución
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: esophagus
+  es: esófago
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: gallbladder
+  es: vesícula biliar
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: pancreas
+  es: páncreas
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: stool
+  es: heces
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: jaundice
+  es: ictericia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: endoscopy
+  es: endoscopia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: colonoscopy
+  es: colonoscopia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: ulcer
+  es: úlcera
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: hepatitis
+  es: hepatitis
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: cirrhosis
+  es: cirrosis
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: appetite
+  es: apetito
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: rectum
+  es: recto
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - gastroenterology
+- difficulty: 1
+  en: brain
+  es: cerebro
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: spinal cord
+  es: médula espinal
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: nerve
+  es: nervio
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: seizure
+  es: convulsión
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: stroke
+  es: accidente cerebrovascular
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: numbness
+  es: entumecimiento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: weakness
+  es: debilidad
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: tremor
+  es: temblor
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: memory
+  es: memoria
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: balance
+  es: equilibrio
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: migraine
+  es: migraña
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: epilepsy
+  es: epilepsia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: reflex
+  es: reflejo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: sensation
+  es: sensibilidad
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: paralysis
+  es: parálisis
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: consciousness
+  es: conciencia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: coordination
+  es: coordinación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: electroencephalogram
+  es: electroencefalograma
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: lumbar puncture
+  es: punción lumbar
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: multiple sclerosis
+  es: esclerosis múltiple
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - neurology
+- difficulty: 1
+  en: pregnancy
+  es: embarazo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: uterus
+  es: útero
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: ovary
+  es: ovario
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: cervix
+  es: cuello uterino
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: menstruation
+  es: menstruación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: contraction
+  es: contracción
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: childbirth
+  es: parto
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: breastfeeding
+  es: lactancia materna
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: placenta
+  es: placenta
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: fetus
+  es: feto
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: prenatal care
+  es: atención prenatal
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: ultrasound
+  es: ecografía
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: cesarean section
+  es: cesárea
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: miscarriage
+  es: aborto espontáneo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: vaginal bleeding
+  es: sangrado vaginal
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: menopause
+  es: menopausia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: contraception
+  es: anticoncepción
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: amniotic fluid
+  es: líquido amniótico
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: fallopian tube
+  es: trompa de Falopio
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: due date
+  es: fecha probable de parto
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - obgyn
+- difficulty: 1
+  en: infant
+  es: lactante
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: newborn
+  es: recién nacido
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: child
+  es: niño
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: vaccine
+  es: vacuna
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: growth
+  es: crecimiento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: development
+  es: desarrollo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: dehydration
+  es: deshidratación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: ear infection
+  es: infección del oído
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: rash
+  es: erupción cutánea
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: diaper
+  es: pañal
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: formula
+  es: fórmula infantil
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: birth weight
+  es: peso al nacer
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: feeding
+  es: alimentación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: teething
+  es: dentición
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: prematurity
+  es: prematuridad
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: immunization record
+  es: registro de vacunación
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: sore throat
+  es: dolor de garganta
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: well-child visit
+  es: consulta de control infantil
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: caregiver
+  es: cuidador
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: pediatrician
+  es: pediatra
+  gender_es: mf
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - pediatrics
+- difficulty: 1
+  en: emergency
+  es: urgencia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: ambulance
+  es: ambulancia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: wound
+  es: herida
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: burn
+  es: quemadura
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: fracture
+  es: fractura
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: trauma
+  es: traumatismo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: loss of consciousness
+  es: pérdida del conocimiento
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: resuscitation
+  es: reanimación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: stretcher
+  es: camilla
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: triage
+  es: triaje
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: shock
+  es: choque
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: poisoning
+  es: intoxicación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: choking
+  es: atragantamiento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: bandage
+  es: vendaje
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: suture
+  es: sutura
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: intravenous line
+  es: vía intravenosa
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: vital signs
+  es: signos vitales
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: cardiac arrest
+  es: paro cardíaco
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: allergic reaction
+  es: reacción alérgica
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: emergency department
+  es: servicio de urgencias
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - emergency
+- difficulty: 1
+  en: bone
+  es: hueso
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: joint
+  es: articulación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: muscle
+  es: músculo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: tendon
+  es: tendón
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: ligament
+  es: ligamento
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: knee
+  es: rodilla
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: shoulder
+  es: hombro
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: elbow
+  es: codo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: ankle
+  es: tobillo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: wrist
+  es: muñeca
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: hip
+  es: cadera
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: sprain
+  es: esguince
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: dislocation
+  es: luxación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: cast
+  es: yeso
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: splint
+  es: férula
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: crutch
+  es: muleta
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: range of motion
+  es: amplitud de movimiento
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: physical therapy
+  es: fisioterapia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: back pain
+  es: dolor de espalda
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: cartilage
+  es: cartílago
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - orthopedics
+- difficulty: 1
+  en: anxiety
+  es: ansiedad
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: depression
+  es: depresión
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: mood
+  es: estado de ánimo
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: sleep
+  es: sueño
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: insomnia
+  es: insomnio
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: panic attack
+  es: ataque de pánico
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: stress
+  es: estrés
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: hallucination
+  es: alucinación
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: delusion
+  es: delirio
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: psychotherapy
+  es: psicoterapia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: mental health
+  es: salud mental
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: bipolar disorder
+  es: trastorno bipolar
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: schizophrenia
+  es: esquizofrenia
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: substance use
+  es: consumo de sustancias
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: concentration
+  es: concentración
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: sadness
+  es: tristeza
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: hopelessness
+  es: desesperanza
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: support network
+  es: red de apoyo
+  gender_es: f
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: suicidal thought
+  es: pensamiento suicida
+  gender_es: m
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: psychiatrist
+  es: psiquiatra
+  gender_es: mf
+  pos: noun
+  semantic_type: other
+  source: curated
+  specialties:
+  - psychiatry
+- difficulty: 1
+  en: head
+  es: cabeza
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: neck
+  es: cuello
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: face
+  es: cara
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: eye
+  es: ojo
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: ear
+  es: oreja
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: nose
+  es: nariz
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: mouth
+  es: boca
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: tongue
+  es: lengua
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: tooth
+  es: diente
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: throat
+  es: garganta
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: chest
+  es: pecho
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: abdomen
+  es: abdomen
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: back
+  es: espalda
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: arm
+  es: brazo
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: hand
+  es: mano
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: finger
+  es: dedo
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: leg
+  es: pierna
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: foot
+  es: pie
+  gender_es: m
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: skin
+  es: piel
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+- difficulty: 1
+  en: rib
+  es: costilla
+  gender_es: f
+  pos: noun
+  semantic_type: anatomy
+  source: curated
+  specialties:
+  - anatomy
+blacklist: []
+correct: []
