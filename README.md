@@ -1,4 +1,4 @@
-# MedLingo
+# MedLingo- LLM coding assistant generated tool:
 
 A local English ↔ Spanish medical vocabulary trainer with persistent progress, six exercise formats, scripted patient encounters, personal review banks, and a progress dashboard. No ads, lives, subscriptions, or runtime API keys in the default configuration.
 
